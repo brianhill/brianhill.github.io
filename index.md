@@ -2,10 +2,8 @@
 
 ## Links
 
-* Herbert Reich Chair of Natural Science, <a href="https://www.deepsprings.edu/academics/">Deep Springs College</a>, July, 2020 to present.
-* Adjunct Professor and Assistant Professor, [Dept. of Physics &amp; Astronomy](http://physics.stmarys-ca.edu), Saint Mary's College, February 2015 to June, 2020.
-* Old [Home Page](http://physics.stmarys-ca.edu/faculty/brianhill) at Saint Mary's College.
-* Saint Mary's College of California Email, <a href="mailto:brh3@stmarys-ca.edu">brh3@stmarys-ca.edu</a>, still monitored.
+* [Home Page](http://physics.stmarys-ca.edu/faculty/brianhill) at Saint Mary's College.
+* Saint Mary's College of California Email, <a href="mailto:brh3@stmarys-ca.edu">brh3@stmarys-ca.edu</a>.
 
 ##  Repositories
 
