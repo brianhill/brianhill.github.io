@@ -2,8 +2,8 @@
 
 ## Links
 
-* [Home Page](http://physics.stmarys-ca.edu/faculty/brianhill) at Saint Mary's College.
-* Saint Mary's College of California Email, <a href="mailto:brh3@stmarys-ca.edu">brh3@stmarys-ca.edu</a>.
+* Deep Springs College [Staff and Faculty Directory](https://www.deepsprings.edu/staff-faculty-directory/)
+* Old [Home Page](http://physics.stmarys-ca.edu/faculty/brianhill) on Saint Mary's College Dept. of Physics &amp; Astronomy website
 
 ##  Repositories
 
