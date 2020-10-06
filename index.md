@@ -2,13 +2,13 @@
 
 ## Current Courses
 
-* [History and Science of the Manhattan Project](https://observatree.github.io/manhattan-project/)
-* [The Special Theory of Relativity](https://observatree.github.io/special-relativity/)
+* [History and Science of the Manhattan Project](https://github.com/observatree/manhattan-project/)
+* [The Special Theory of Relativity](https://github.com/observatree/special-relativity)
 
 ## Astronomy Links
 
-* Astronomical [forecast](https://www.cleardarksky.com/c/DpSprObCAkey.html?1) using CMC model via Attilla Danko and [ClearDarkSky.com](https://www.cleardarksky.com)
-* Meteorological [hourly](https://www.yr.no/place/USA/California/Deep_Springs/hour_by_hour_detailed.html) and [eight-day](https://www.yr.no/place/USA/California/Deep_Springs/long.html) ECMWF forecasts via [Norway Meteorological Institute](https://www.yr.no/en)
+* CMC [astronomical forecast](https://www.cleardarksky.com/c/DpSprObCAkey.html?1) for Deep Springs Observatory via Attilla Danko and ClearDarkSky
+* ECMWF [short-term](https://www.yr.no/place/USA/California/Deep_Springs/hour_by_hour_detailed.html) and [long-term](https://www.yr.no/place/USA/California/Deep_Springs/long.html) forecasts for Deep Springs via Norway Meteorological Institute
 
 ## Faculty Pages
 
