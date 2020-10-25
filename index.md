@@ -18,5 +18,5 @@
 
 ## Faculty Pages
 
-* Deep Springs College [Faculty Bios](http://deepsprings.edu/academics/#faculty)
+* Deep Springs College [Faculty Bio](http://deepsprings.edu/academics/#brianhill)
 * Former [Home Page](http://physics.stmarys-ca.edu/faculty/brianhill/index.html) at Saint Mary's College
