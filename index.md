@@ -2,8 +2,8 @@
 
 ## Current Courses
 
-* [History and Science of the Manhattan Project](https://observatree.github.io/manhattan-project/)
-* [The Special Theory of Relativity](https://observatree.github.io/observatree.github.io/special-relativity/)
+* [History and Science of the Manhattan Project](https://observatree.github.io/manhattan-project/index.html)
+* [The Special Theory of Relativity](https://observatree.github.io/observatree.github.io/special-relativity/index.html)
 
 ## Weather, Astronomy, and Fire Links
 
