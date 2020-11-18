@@ -1,5 +1,9 @@
 # Brian Hill
 
+## Course Proposals
+
+* [Spring Term 2021 Proposals](https://observatree.github.io/course-proposals/)
+
 ## Current Courses
 
 * [History and Science of the Manhattan Project](https://observatree.github.io/manhattan-project/)
