@@ -1,8 +1,9 @@
 # Brian Hill
 
-## Course Proposals
+## Upcoming Courses
 
-* [Spring Term 2021 Proposals](https://observatree.github.io/course-proposals/)
+* [The Cosmos: A Survey of Modern Astronomy](./astronomy/)
+* [Mathematical Analysis: The Foundation of Calculus](./mathematical-analysis/)
 
 ## Current Courses
 
