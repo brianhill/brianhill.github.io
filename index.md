@@ -2,17 +2,17 @@
 
 ## Upcoming Courses
 
-* [The Cosmos: A Survey of Modern Astronomy](./astronomy/)
-* [Mathematical Analysis: The Foundation of Calculus](./mathematical-analysis/)
+* [The Cosmos: A Survey of Modern Astronomy](/astronomy/)
+* [Mathematical Analysis: The Foundation of Calculus](/mathematical-analysis/)
 
 ## Current Courses
 
-* [History and Science of the Manhattan Project](https://observatree.github.io/manhattan-project/)
-* [The Special Theory of Relativity](https://observatree.github.io/special-relativity/)
+* [History and Science of the Manhattan Project](/manhattan-project/)
+* [The Special Theory of Relativity](/special-relativity/)
 
 ## Observatory
 
-* Deep Springs Observatory [home page](../deep-springs-observatory/)
+* Deep Springs Observatory [home page](/deep-springs-observatory/)
 
 ## Weather Links
 
