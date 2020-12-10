@@ -5,7 +5,7 @@
 * [The Cosmos: A Survey of Modern Astronomy](/astronomy/)
 * [Mathematical Analysis: The Foundation of Calculus](/mathematical-analysis/)
 
-## Current Courses
+## Recent Courses
 
 * [History and Science of the Manhattan Project](/manhattan-project/)
 * [The Special Theory of Relativity](/special-relativity/)
