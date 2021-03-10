@@ -1,10 +1,6 @@
 # Brian Hill
 
-## Term 4 Credit Opportunity
-
-* [Harvard CS50x Cohort](./harvard-cs50x-cohort/)
-
-## Spring Term (Terms 5 and 6) Courses
+## Current Courses
 
 * [The Cosmos: A Survey of Modern Astronomy](/astronomy/)
 * [Mathematical Analysis: The Foundation of Calculus](/mathematical-analysis/)
@@ -13,6 +9,7 @@
 
 * [History and Science of the Manhattan Project](/manhattan-project/)
 * [The Special Theory of Relativity](/special-relativity/)
+* [Introduction to Computer Science](./computer-science/)
 
 ## Observatory
 
