@@ -1,6 +1,6 @@
 # Brian Hill
 
-*Deep Springs College, Natural Science Chair*
+*Natural Science Chair, Deep Springs College*
 
 ## Current Courses
 
