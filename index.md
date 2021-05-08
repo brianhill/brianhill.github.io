@@ -16,7 +16,7 @@
 ## Observational Astronomy
 
 * Home page of [Deep Springs Observatory](./deep-springs-observatory/)
-* [Other instruments](./deep-springs-observatory/other_instruments.md) in use at Deep Springs
+* [Other instruments](./deep-springs-observatory/other_instruments.html) in use at Deep Springs
 
 ## Weather, Air Quality, Fire, and GIS Links
 
