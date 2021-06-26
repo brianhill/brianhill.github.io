@@ -2,16 +2,13 @@
 
 *Herbert Reich Chair of Natural Science, Deep Springs College*
 
-## Current Courses
-
-* [Mathematical Analysis: The Foundation of Calculus](./mathematical-analysis/)
-* [The Cosmos: A Survey of Modern Astronomy](./astronomy/)
-
 ## Recent Courses
 
+* [The Cosmos: A Survey of Modern Astronomy](./astronomy/)
 * [History and Science of the Manhattan Project](./manhattan-project/)
-* [The Special Theory of Relativity](./special-relativity/)
 * [Introduction to Computer Science](./computer-science/)
+* [Mathematical Analysis: The Foundation of Calculus](./mathematical-analysis/)
+* [The Special Theory of Relativity](./special-relativity/)
 
 ## Observational Astronomy
 
