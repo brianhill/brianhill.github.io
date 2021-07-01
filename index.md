@@ -14,6 +14,7 @@
 
 * Home page of [Deep Springs Observatory](./deep-springs-observatory/)
 * [Other instruments](./deep-springs-observatory/other_instruments.html) in use at Deep Springs
+* Student [astrophotography projects](./astronomy/index.html#astrophotography-projects)
 
 ## Weather, Air Quality, Fire, and GIS Links
 
