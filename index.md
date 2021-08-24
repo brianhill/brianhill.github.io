@@ -5,7 +5,7 @@
 ## Current Courses
 
 * [Technological MacGyvering with the Arduino Microprocessor](./technological-macgyvering/)
-* [Cryptography: Algorithms and History](./cyrptography/)
+* [Cryptography: Algorithms and History](./cryptography/)
 
 ## Recent Courses
 
