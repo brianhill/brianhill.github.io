@@ -2,6 +2,11 @@
 
 *Herbert Reich Chair of Natural Science, Deep Springs College*
 
+## Current Courses
+
+* [Technological MacGyvering with the Arduino Microprocessor](./technological-macgyvering/)
+* [Cryptography: Algorithms and History](./cyrptography/)
+
 ## Recent Courses
 
 * [The Cosmos: A Survey of Modern Astronomy](./astronomy/)
