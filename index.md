@@ -4,8 +4,8 @@
 
 ## Current Courses
 
-* [Technological MacGyvering with the Arduino Microprocessor](./technological-macgyvering/)
 * [Cryptography: Algorithms and History](./cryptography/)
+* [Technological MacGyvering with the Arduino Microprocessor](./technological-macgyvering/)
 
 ## Recent Courses
 
@@ -40,7 +40,7 @@
 
 ### Fire
 
-* [NASA FIRMS](https://firms.modaps.eosdis.nasa.gov/map/#d:today;@-118.2,41.0,6z)
+* [NASA FIRMS](https://firms2.modaps.eosdis.nasa.gov/map/#d:today;@-118.2,41.0,6z) (Fire Information for Resource Management System)
 * RAMMB/CIRA GOES-17 [fire temperature animation](https://rammb-slider.cira.colostate.edu/?sat=goes-17&z=5&im=12&ts=1&st=0&et=0&speed=200&motion=loop&map=1&lat=0&opacity%5B0%5D=1&hidden%5B0%5D=0&pause=0&slider=-1&hide_controls=1&mouse_draw=0&follow_feature=0&follow_hide=0&s=rammb-slider&sec=full_disk&p%5B0%5D=fire_temperature&x=13488.140625&y=3295.15625) for Northern and Central California
 
 ### GIS
