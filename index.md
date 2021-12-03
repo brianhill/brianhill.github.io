@@ -2,6 +2,12 @@
 
 *Herbert Reich Chair of Natural Science, Deep Springs College*
 
+## Upcoming Courses
+
+* Heavenly Mathematics] co-taught with [Ryan Derby-Talbot](./http://deepsprings.edu/academics/#faculty)
+* Modeling, Simulation, and Rendering using [Processing](http://learningprocessing.com) and [The Nature of Code](https://natureofcode.com) by Daniel Shiffman
+* Observational Astronomy (Term 5, March 14 &ndash; April 28, 2022)
+
 ## Current Courses
 
 * [Cryptography: Algorithms and History](./cryptography/)
