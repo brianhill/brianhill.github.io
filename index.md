@@ -5,21 +5,17 @@
 ## Upcoming Courses
 
 * Heavenly Mathematics co-taught with [Ryan Derby-Talbot](http://deepsprings.edu/academics/#faculty)
-* Modeling, Simulation, and Rendering using [Processing](http://learningprocessing.com) and [The Nature of Code](https://natureofcode.com) by Daniel Shiffman
+* Modeling, Simulation, and Rendering using the Processing language and [The Nature of Code](https://natureofcode.com) by Daniel Shiffman
 * Observational Astronomy (Term 5, March 14 &ndash; April 28, 2022)
-
-## Current Courses
-
-* [Cryptography: Algorithms and History](./cryptography/)
-* [Technological MacGyvering with the Arduino Microprocessor](./technological-macgyvering/)
 
 ## Recent Courses
 
 * [The Cosmos: A Survey of Modern Astronomy](./astronomy/)
+* [Cryptography: Algorithms and History](./cryptography/)
 * [History and Science of the Manhattan Project](./manhattan-project/)
-* [Introduction to Computer Science](./computer-science/)
 * [Mathematical Analysis: The Foundation of Calculus](./mathematical-analysis/)
 * [The Special Theory of Relativity](./special-relativity/)
+* [Technological MacGyvering with the Arduino Microprocessor](./technological-macgyvering/)
 
 ## Observational Astronomy
 
