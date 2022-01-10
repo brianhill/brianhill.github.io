@@ -5,7 +5,7 @@
 ## Current Courses
 
 * [Heavenly Mathematics](./heavenly-mathematics)
-* [Modeling, Simulation, and Rendering using the Processing Language](./modeling-in-processing)
+* [Modeling, Simulation, and Rendering in Processing](./modeling-in-processing)
 
 ## Recent Courses
 
