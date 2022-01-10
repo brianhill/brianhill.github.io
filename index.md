@@ -2,11 +2,10 @@
 
 *Herbert Reich Chair of Natural Science, Deep Springs College*
 
-## Upcoming Courses
+## Current Courses
 
-* Heavenly Mathematics co-taught with [Ryan Derby-Talbot](http://deepsprings.edu/academics/#faculty)
-* Modeling, Simulation, and Rendering using the Processing language and [The Nature of Code](https://natureofcode.com) by Daniel Shiffman
-* Observational Astronomy (Term 5, March 14 &ndash; April 28, 2022)
+* [Heavenly Mathematics](./heavenly-mathematics)
+* [Modeling, Simulation and Rendering in Processing](./modeling-in-processing)
 
 ## Recent Courses
 
@@ -20,7 +19,8 @@
 ## Observational Astronomy
 
 * Home page of [Deep Springs Observatory](./deep-springs-observatory/)
-* Student [astrophotography projects](./astronomy/index.html#astrophotography-projects)
+* Spring 2021 [astrophotography projects](./astronomy/index.html#astrophotography-projects)
+* Term 5 Course page &mdash; coming March, 2022
 
 ## Weather, Air Quality, Fire, and GIS Links
 
@@ -32,7 +32,7 @@
 * Astrospheric [astronomical forecast](https://www.astrospheric.com/?Latitude=37.3749&Longitude=-117.9802) for Deep Springs Observatory
 * ClearDarkSky [astronomical forecast](https://www.cleardarksky.com/c/DpSprObCAkey.html?1) for Deep Springs Observatory
 
-### Historical Weather
+### Historical Weather Record
 
 * National Weather Service MesoWest [Weather Conditions at Deep Springs](https://www.wrh.noaa.gov/mesowest/timeseries.php?sid=DPSC1)
 
