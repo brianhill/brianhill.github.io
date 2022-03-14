@@ -4,8 +4,9 @@
 
 ## Current Courses
 
-* [Heavenly Mathematics](./heavenly-mathematics)
 * [Modeling, Simulation, and Rendering in Processing](./modeling-in-processing)
+* [Heavenly Mathematics](./heavenly-mathematics)
+* [Observational Astronomy](./observational-astronomy)
 
 ## Recent Courses
 
@@ -15,12 +16,6 @@
 * [Mathematical Analysis: The Foundation of Calculus](./mathematical-analysis/)
 * [The Special Theory of Relativity](./special-relativity/)
 * [Technological MacGyvering with the Arduino Microprocessor](./technological-macgyvering/)
-
-## Observational Astronomy
-
-* Home page of [Deep Springs Observatory](./deep-springs-observatory/)
-* Spring 2021 [astrophotography projects](./astronomy/index.html#astrophotography-projects)
-* Term 5 Course page &mdash; coming March, 2022
 
 ## Weather, Air Quality, Fire, and GIS Links
 
@@ -52,4 +47,7 @@
 ## More Links
 
 * Deep Springs College [faculty bios](http://deepsprings.edu/academics/#faculty)
+* Home page of [Deep Springs Observatory](./deep-springs-observatory/)
+* Spring 2021 [astrophotography projects](./astronomy/index.html#astrophotography-projects)
 * Former [home page](http://physics.stmarys-ca.edu/faculty/brianhill/index.html) at Saint Mary's College of California
+
