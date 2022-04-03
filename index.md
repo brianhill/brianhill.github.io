@@ -23,8 +23,8 @@
 
 * Weather Underground 10-day forecasts for [Dyer](https://www.wunderground.com/forecast/us/nv/dyer) and [Bishop](https://www.wunderground.com/forecast/us/ca/bishop)
 * Apple Dark Sky app [forecast](https://darksky.net/forecast/37.3749,-117.9802/us12/en) for Deep Springs
-* Norway Meteorological Institute [detailed hourly](https://www.yr.no/place/USA/California/Deep_Springs/hour_by_hour_detailed.html) and [long-term](https://www.yr.no/place/USA/California/Deep_Springs/long.html) forecasts for Deep Springs
-* Astrospheric [astronomical forecast](https://www.astrospheric.com/?Latitude=37.3749&Longitude=-117.9802) for Deep Springs Observatory
+* Norway Meteorological Institute [forecast](https://www.yr.no/en/forecast/daily-table/37.3749,-117.9802) for Deep Springs
+* Astrospheric [astronomical forecast](https://www.astrospheric.com/?Latitude=37.3749&Longitude=-117.9802) for Deep Springs
 * ClearDarkSky [astronomical forecast](https://www.cleardarksky.com/c/DpSprObCAkey.html?1) for Deep Springs Observatory
 
 ### Historical Weather Record
