@@ -17,7 +17,7 @@
 * [The Special Theory of Relativity](./special-relativity/)
 * [Technological MacGyvering with the Arduino Microprocessor](./technological-macgyvering/)
 
-## Weather, Air Quality, Fire, and GIS Links
+## Weather, Dark Sky, Air Quality, Fire, and GIS Links
 
 ### Weather Forecasts
 
@@ -30,6 +30,10 @@
 ### Historical Weather Record
 
 * National Weather Service MesoWest [Weather Conditions at Deep Springs](https://www.wrh.noaa.gov/mesowest/timeseries.php?sid=DPSC1)
+
+### Dark Sky
+
+* Dark Site Finder [interactive map](https://darksitefinder.com/maps/world.html#10/37.3749/-117.9802) centered on Deep Springs
 
 ### Air Quality
 
@@ -50,4 +54,3 @@
 * Home page of [Deep Springs Observatory](./deep-springs-observatory/)
 * Spring 2021 [astrophotography projects](./astronomy/index.html#astrophotography-projects)
 * Former [home page](http://physics.stmarys-ca.edu/faculty/brianhill/index.html) at Saint Mary's College of California
-
