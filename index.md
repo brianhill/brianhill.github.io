@@ -10,11 +10,22 @@
 
 ## Recent Courses
 
+### Astronomy
+
 * [The Cosmos: A Survey of Modern Astronomy](./astronomy/)
-* [Cryptography: Algorithms and History](./cryptography/)
-* [History and Science of the Manhattan Project](./manhattan-project/)
+
+### Mathematics
+
 * [Mathematical Analysis: The Foundation of Calculus](./mathematical-analysis/)
+
+### Physics
+
+* [History and Science of the Manhattan Project](./manhattan-project/)
 * [The Special Theory of Relativity](./special-relativity/)
+
+### Technology
+
+* [Cryptography: Algorithms and History](./cryptography/)
 * [Technological MacGyvering with the Arduino Microprocessor](./technological-macgyvering/)
 
 ## Weather, Dark Sky, Air Quality, Fire, and GIS Links
