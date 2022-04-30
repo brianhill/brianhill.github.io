@@ -2,24 +2,30 @@
 
 *Herbert Reich Chair of Natural Science, Deep Springs College*
 
-## Recent Courses
+## Courses
 
-### Astronomy
+### Current
+
+* [Differential Equations](./differential-equations/)
+
+### Recent
+
+#### Astronomy
 
 * [The Cosmos: A Survey of Modern Astronomy](./astronomy/)
 * [Observational Astronomy](./observational-astronomy)
 
-### Mathematics
+#### Mathematics
 
 * [Heavenly Mathematics](./heavenly-mathematics)
 * [Mathematical Analysis: The Foundation of Calculus](./mathematical-analysis/)
 
-### Physics
+#### Physics
 
 * [History and Science of the Manhattan Project](./manhattan-project/)
 * [The Special Theory of Relativity](./special-relativity/)
 
-### Technology
+#### Technology
 
 * [Cryptography: Algorithms and History](./cryptography/)
 * [Modeling, Simulation, and Rendering in Processing](./modeling-in-processing)
