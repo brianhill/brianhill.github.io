@@ -4,7 +4,7 @@
 
 ## Courses
 
-### Current
+### Upcoming
 
 * [Differential Equations](./differential-equations/)
 
