@@ -8,28 +8,9 @@
 
 * [Differential Equations](./differential-equations/)
 
-### Recent
+### Past
 
-#### Astronomy
-
-* [The Cosmos: A Survey of Modern Astronomy](./astronomy/)
-* [Observational Astronomy](./observational-astronomy)
-
-#### Mathematics
-
-* [Heavenly Mathematics](./heavenly-mathematics)
-* [Mathematical Analysis: The Foundation of Calculus](./mathematical-analysis/)
-
-#### Physics
-
-* [History and Science of the Manhattan Project](./manhattan-project/)
-* [The Special Theory of Relativity](./special-relativity/)
-
-#### Technology
-
-* [Cryptography: Algorithms and History](./cryptography/)
-* [Modeling, Simulation, and Rendering in Processing](./modeling-in-processing)
-* [Technological MacGyvering with the Arduino Microprocessor](./technological-macgyvering/)
+* [Past Courses](./past_courses.html)
 
 ## Weather, Dark Sky, Air Quality, Fire, and GIS Links
 
