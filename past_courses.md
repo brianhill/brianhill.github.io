@@ -43,9 +43,9 @@
 
 #### Computer Science
 
-* [Cloud Software Development](http://physics.stmarys-ca.edu/courses/CS197/16F/index.html)
-* [Loops and Orbits: Programming for Aspiring Rocketeers](http://physics.stmarys-ca.edu/courses/Jan033/20J/index.html)
-* [Mobile Software Development](http://physics.stmarys-ca.edu/courses/CS190/16S/index.html)
+* [Cloud Software Development](http://physics.stmarys-ca.edu/faculty/brianhill/courses/CS197/16F/index.html)
+* [Loops and Orbits: Programming for Aspiring Rocketeers](http://physics.stmarys-ca.edu/faculty/brianhill/courses/Jan033/20J/index.html)
+* [Mobile Software Development](http://physics.stmarys-ca.edu/faculty/brianhill/courses/CS190/16S/index.html)
 
 #### Seminar
 
