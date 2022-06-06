@@ -49,4 +49,4 @@
 
 #### Seminar
 
-* [Seminar 1: Critical Strategies and Great Questions](http://physics.stmarys-ca.edu/courses/Sem001/19S/index.html)
+* [Seminar 1: Critical Strategies and Great Questions](http://physics.stmarys-ca.edu/faculty/brianhill/courses/Sem001/19S/index.html)
