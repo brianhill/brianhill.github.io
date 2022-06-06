@@ -63,4 +63,3 @@
 * Home page of [Deep Springs Observatory](./deep-springs-observatory/)
 * Spring 2021 [astrophotography projects](./astronomy/index.html#astrophotography-projects)
 * Deep Springs College [faculty bios](http://deepsprings.edu/academics/#faculty)
-* Former [home page](http://physics.stmarys-ca.edu/faculty/brianhill/index.html) at Saint Mary's College of California
