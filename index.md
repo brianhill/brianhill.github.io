@@ -16,7 +16,7 @@
 
 * [Presentations and Publications](./presentations_and_publications.html)
 
-## Weather, Dark Sky, Air Quality, Fire, and GIS Links
+## Weather Forecasts, Historical Weather, Dark Sky, Air Quality, Fire, and GIS Links
 
 ### Weather Forecasts
 
@@ -26,7 +26,7 @@
 * Astrospheric [astronomical forecast](https://www.astrospheric.com/?Latitude=37.3749&Longitude=-117.9802) for Deep Springs
 * ClearDarkSky [astronomical forecast](https://www.cleardarksky.com/c/DpSprObCAkey.html?1) for Deep Springs Observatory
 
-### Historical Weather Record
+### Historical Weather
 
 * National Weather Service MesoWest [Weather Conditions at Deep Springs](https://www.wrh.noaa.gov/mesowest/timeseries.php?sid=DPSC1)
 
