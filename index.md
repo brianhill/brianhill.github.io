@@ -4,7 +4,7 @@
 
 ## Courses
 
-### Current
+### Recent
 
 * [Differential Equations](./differential-equations/)
 
@@ -23,6 +23,7 @@
 * Weather Underground 10-day forecasts for [Dyer](https://www.wunderground.com/forecast/us/nv/dyer) and [Bishop](https://www.wunderground.com/forecast/us/ca/bishop)
 * Apple Dark Sky app [forecast](https://darksky.net/forecast/37.3749,-117.9802/us12/en) for Deep Springs
 * Norway Meteorological Institute [forecast](https://www.yr.no/en/forecast/daily-table/37.3749,-117.9802) for Deep Springs
+* Norway Meteorological Institute [forecast](https://www.yr.no/en/forecast/graph/2-5346035/United%20States/California/Inyo%20County/The%20Elephant) for The Elephant
 * Astrospheric [astronomical forecast](https://www.astrospheric.com/?Latitude=37.3749&Longitude=-117.9802) for Deep Springs
 * ClearDarkSky [astronomical forecast](https://www.cleardarksky.com/c/DpSprObCAkey.html?1) for Deep Springs Observatory
 
