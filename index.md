@@ -6,8 +6,8 @@
 
 ### Upcoming
 
-* From Galileo to Newton: The Emergence of Modern Physical Science
-* Numerical Analysis on a Pocket Calculator
+* [From Galileo to Newton: The Emergence of Modern Physical Science](./newton/index.html)
+* [Numerical Analysis on a Pocket Calculator](./numerical-analysis/index.html)
 
 ### Past
 
