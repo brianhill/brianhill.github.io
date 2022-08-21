@@ -4,9 +4,10 @@
 
 ## Courses
 
-### Recent
+### Upcoming
 
-* [Differential Equations](./differential-equations/)
+* From Galileo to Newton: The Emergence of Modern Physical Science
+* Numerical Analysis on a Pocket Calculator
 
 ### Past
 
@@ -51,5 +52,4 @@
 ## More Links
 
 * Home page of [Deep Springs Observatory](./deep-springs-observatory/)
-* Spring 2021 [astrophotography projects](./astronomy/index.html#astrophotography-projects)
-* Deep Springs College [faculty bios](http://deepsprings.edu/academics/#faculty)
+* Deep Springs College [faculty listing](http://deepsprings.edu/academics/#faculty)

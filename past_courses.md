@@ -11,6 +11,7 @@
 
 #### Mathematics
 
+* [Differential Equations](./differential-equations/)
 * [Heavenly Mathematics](./heavenly-mathematics)
 * [Mathematical Analysis: The Foundation of Calculus](./mathematical-analysis/)
 
