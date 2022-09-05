@@ -4,7 +4,7 @@
 
 ## Courses
 
-### Upcoming
+### Current
 
 * [From Galileo to Newton: The Emergence of Modern Physical Science](./newton/index.html)
 * [Numerical Analysis on a Pocket Calculator](./numerical-analysis/index.html)
@@ -52,4 +52,4 @@
 ## More Links
 
 * Home page of [Deep Springs Observatory](./deep-springs-observatory/)
-* Deep Springs College [faculty listing](http://deepsprings.edu/academics/#faculty)
+* Deep Springs College [faculty listing](https://deepsprings.edu/academics/#faculty)
