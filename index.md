@@ -49,6 +49,10 @@
 
 * [Inyo County GIS map](https://gis.inyoco.com/arcgis/apps/webappviewer/index.html?id=4f0e9813612040c3994f0ec22235fba4&center=413215.4992%2C4136912.6261%2C26911&scale=7040.6821) centered on Deep Springs
 
+### Satellite
+
+* [GOES West Pacific Southwest GeoColor](https://www.star.nesdis.noaa.gov/goes/sector_band.php?sat=G17&sector=psw&band=GEOCOLOR&length=12)
+
 ## More Links
 
 * Home page of [Deep Springs Observatory](./deep-springs-observatory/)
