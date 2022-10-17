@@ -11,7 +11,7 @@
 * Student poster: *Telescope Rehabilitation and Exoplanet Confirmation: Data Analysis in the TESS Follow-Up Observing Program,* by 2019 Summer Research Program (SRP) participant Connor Martin ([Poster](http://physics.stmarys-ca.edu/faculty/brianhill/presentations/ConnorMartinPoster-2019-10-05.pdf)), Saint Mary's College, School of Science, SRP poster session, October 5th, 2019
 * *Stepping Stones to TFOP, with Ariana Hofelmann* ([YouTube](https://youtu.be/h5b97UAl02g), [Slide Deck](./resources/SteppingStones-AAVSO-2018-11-16.pdf)), AAVSO 2018 Annual Meeting, Flagstaff, AZ, November 16th, 2018
 * Student poster: *Astrophotometry of Eclipsing Binaries and Exoplanets at the Saint Mary’s College Geissberger Observatory,* by 2018 Summer Research Program (SRP) participant Ariana Hofelmann ([Poster](./resources/ArianaHofelmannPoster-2018-09-29.pdf)), Saint Mary's College, School of Science, SRP poster session, September 29th, 2018
-* *The Great American Eclipse of 2017* ([Slide Deck](http://physics.stmarys-ca.edu/faculty/brianhill/presentations/Eclipse2017-SIR146-2017-07-13.pdf)), SIR Branch 146 Luncheon, July 13th, 2017
+* *The Great American Eclipse of 2017* ([Slide Deck](./resources/Eclipse2017-SIR146-2017-07-13.pdf)), SIR Branch 146 Luncheon, July 13th, 2017
 * *Time Series in the AAVSO Database* ([Poster](http://physics.stmarys-ca.edu/faculty/brianhill/presentations/TimeSeriesPoster-2017-06-15.pdf)), Joint SAS/AAVSO Conference, June 15th, 2017
 * *Launching a Variable-Star Observing Program at the Geissberger Observatory* ([Slide Deck](./resources/VSO-2017-02-22.pdf)), Saint Mary's College of California, February 22nd, 2017
 
