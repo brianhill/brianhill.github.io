@@ -8,6 +8,7 @@
 
 * [From Galileo to Newton: The Emergence of Modern Physical Science](./newton/index.html)
 * [Numerical Analysis on a Pocket Calculator](./numerical-analysis/index.html)
+* [Transient Astronomy](./transient-astronomy/index.html)
 
 ### Past
 
