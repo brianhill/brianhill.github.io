@@ -4,20 +4,16 @@
 
 ### At Deep Springs College
 
-#### Astronomy
-
-* [The Cosmos: A Survey of Modern Astronomy](./astronomy/)
-* [Observational Astronomy](./observational-astronomy)
-
 #### Mathematics
 
 * [Differential Equations](./differential-equations/)
-* [Heavenly Mathematics](./heavenly-mathematics)
+* [Heavenly Mathematics](./heavenly-mathematics/)
 * [Mathematical Analysis: The Foundation of Calculus](./mathematical-analysis/)
 
-#### Physics
+#### Physics &amp; Astronomy
 
-* History and Science of the Manhattan Project
+* [The Cosmos: A Survey of Modern Astronomy](./astronomy/)
+* [Observational Astronomy](./observational-astronomy/)
 * [The Special Theory of Relativity](./special-relativity/)
 
 #### Technology
