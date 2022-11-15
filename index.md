@@ -4,7 +4,12 @@
 
 ## Courses
 
-### Current
+### Upcoming (Spring Semester, 2023)
+
+* Cosmology and Black Holes
+* History and Science of the Manhattan Project
+
+### Current (Fall Semester, 2022)
 
 * [From Galileo to Newton: The Emergence of Modern Physical Science](./newton/index.html)
 * [Numerical Analysis on a Pocket Calculator](./numerical-analysis/index.html)

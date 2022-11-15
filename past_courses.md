@@ -17,7 +17,7 @@
 
 #### Physics
 
-* [History and Science of the Manhattan Project](./manhattan-project/)
+* History and Science of the Manhattan Project
 * [The Special Theory of Relativity](./special-relativity/)
 
 #### Technology
