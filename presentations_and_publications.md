@@ -1,4 +1,3 @@
-
 ## Presentations and Publications
 
 * Back to [Brian Hill Home](./index.html)
