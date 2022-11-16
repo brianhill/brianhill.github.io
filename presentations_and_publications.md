@@ -4,8 +4,8 @@
 
 ### Presentations
 
-* *Imaging Under the Dark Skies at Deep Springs College,* ([slide deck](./resources/2022-11-15-BRDSC.pdf)), Presentation to the [Basin and Range Dark Sky Cooperative (BRDSC)](https://brdarkskies.org/about/), November 15th, 2022
-* *Exoplanet Observing,* 2020 offering of a workshop for the American Association of Variable Star Observers, November 9th to December 11th, 2020 (see listing below)
+* *Imaging Under the Dark Skies at Deep Springs College,* ([slide deck](./resources/2022-11-15-BRDSC.pdf)), presentation to the [Basin and Range Dark Sky Cooperative (BRDSC)](https://brdarkskies.org/about/), November 15th, 2022
+* *Exoplanet Observing,* 2020 offering of a workshop for the American Association of Variable Star Observers, November 9th to December 11th, 2020 (repeat of workshop listed below)
 * *Exoplanet Observing,* a course in the Caroline Hurless Online Institute for Continuing Education (CHOICE), November 4th to December 6th, 2019 (CHOICE [course listings](https://www.aavso.org/choice-schedule-registration-2019-non-members))
 * *Exoplanet Detection with Small Telescopes at Deep Springs* (Slide Deck [Part I](./resources/AstronomyAtDeepSprings-I.pdf) and [Part II](./resources/AstronomyAtDeepSprings-II.pdf)), Presentation to the Deep Springs Community, October 13, 2019
 * Student poster: *Telescope Rehabilitation and Exoplanet Confirmation: Data Analysis in the TESS Follow-Up Observing Program,* by 2019 Summer Research Program (SRP) participant Connor Martin ([Poster](./resources/ConnorMartinPoster-2019-10-05.pdf)), Saint Mary's College, School of Science, SRP poster session, October 5th, 2019
