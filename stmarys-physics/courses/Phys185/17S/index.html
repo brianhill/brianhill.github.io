@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- Basic Page Needs -->
+  <meta charset="utf-8">
+  <title>Observational Astronomy</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Mobile Specific Metas -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT -->
+  <link href='//fonts.googleapis.com/css?family=Raleway:400,300,600' rel='stylesheet' type='text/css'>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="../../../shared/skeleton/css/normalize.css">
+  <link rel="stylesheet" href="../../../shared/skeleton/css/skeleton.css">
+  <link rel="stylesheet" href="../../../shared/skeleton/css/custom.css">
+
+  <!-- Scripts -->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js"></script>
+  <link rel="stylesheet" href="../../../shared/skeleton/css/github-prettify-theme.css">
+  <script src="../../../shared/skeleton/js/site.js"></script>
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="../../../shared/images/phys-astro.png">
+
+</head>
+
+<body class="code-snippets-visible">
+
+	<!-- Container -->
+	<div class="container">
+
+		<!-- Title -->
+		<section class="header">
+			<h2 class="title">Observational Astronomy</h2>
+			<h3 class="title">Physics 185, Spring 2017</h3>
+		</section>
+
+		<!-- Title -->
+
+		<div class="navbar-spacer"></div>
+		
+		<nav class="navbar">
+			<div class="container">
+				<ul class="navbar-list">
+					<li class="navbar-item">
+						<a class="navbar-link" href="#science">Science</a>
+					</li>
+					<li class="navbar-item">
+						<a class="navbar-link" href="#methods">Methods</a>
+					</li>
+					<li class="navbar-item">
+						<a class="navbar-link" href="#equipment">Equipment</a>
+					</li>
+					<li class="navbar-item">
+						<a class="navbar-link" href="#results">Results</a>
+					</li>
+					<li class="navbar-item">
+						<a class="navbar-link" href="#team">Team</a>
+					</li>
+				</ul>
+			</div>
+		</nav>
+		
+		<!-- Science -->
+		<div class="docs-section" id="science">
+			<h6 class="docs-header">Science</h6>
+			<p>Astronomy has entered the age of large surveys. However, every survey has limitations, whether those be cadence, saturation, duration, spectroscopy or resolution. Therefore, far from exhausting the observational space, the large surveys are only cutting swaths in what remains a mostly open field for the foreseeable future. In cutting these swaths, the large surveys are multiplying &mdash; not reducing &mdash; the number of targets that smaller telescopes need to follow up on. For more details see <a href="./resources/AAVSO2016_Ivezic.pdf">The Impact of Large Optical Surveys on Stellar Astronomy and Variable Star Research</a> by Prof. &#381;eljko Ivezi&#263;, Chair of the Large Synoptic Survey Telescope Science Team.</p>
+			<p>Thanks to the vision of Prof. Ronald P. Olowin, to a generous gift in memory of Norma Geissberger, and to ongoing School of Science and Departmental commitment, Saint Mary's already has the equipment to complement the work of the large surveys. Differential photometry techniques using our equipment can quantitatively measure subtle changes in the brightness of stars. These techniques, applied to milli-magnitude brightness changes, are being used to rapidly expand the catalog of planets found around other stars.</p>
+			<p>As the exoplanet catalog grows, a small subset of stars known as "dippers" whose planetary systems are still in formation are being identified. Just as the Earth regularly crosses the face of the Sun when viewed from Jupiter, clouds of proto-planetary material cross the face of other stars. By studying the resulting brightness curves, the structure of the proto-planetary disks can be computed and their evolution can be modeled. For more information about exoplanets and dippers, see <a href="./resources/AAVSO_Keynote_2016Rodriguez.pdf">the keynote by Dr. Joseph Rodriguez</a> of Harvard's Center for Astrophysics, given at this year's annual meeting of the American Association of Variable Star Observers (AAVSO).</p>
+			<p>For decades, networks of astronomers with smaller telescopes, of which the AAVSO is the best-known, have been collectively following the most interesting targets they can mutually identify. The AAVSO network is ready-made and welcoming of participation by modest but serious individuals and small teams. It is well within our reach to understand, operate and calibrate our equipment so that it is meaningfully contributing to the large-scale surveys and their follow-up networks, and that is what we have set out to do.</p>
+
+		<!-- Methods -->
+		<div class="docs-section" id="methods">
+			<h6 class="docs-header">Methods</h6>
+			<p>A telescope is merely the centerpiece of a working astrophysical observing system. Although eyepieces are still attached to them for enjoyment and to do sanity checks on alignment, the actual business end of a telescope is not its objective or its eyepiece, but its camera, also known as a charge-coupled device or CCD. The CCD is much like the sensor in an ordinary digital camera, except that it has a very small refrigerator attached to it to reduce stray excitations of its pixels, and thereby to better allow tiny amounts of starlight to stand out.</p>
+			<p>Just as an ordinary camera has distortions and imperfections, the telescope and its digital camera have distortions and imperfections that must be corrected for. Even the atmosphere itself varies from night to night and from position to position in the sky, creating more corrections that must be accounted for lest they be mistaken for the small variations in star brightness that are the signals we seek.</p>
+			<p>The field of aquiring and correcting CCD data is called CCD photometry, and it is sufficiently well-established that we should readily be able to follow its methods. It helps that we have the same high-quality cameras, filters and focusers that many other groups are using, and that we have sufficient computer and programming expertise that we can use the very same packages to analyze our CCD data &mdash; AstroImageJ and astro.py &mdash; that astronomers at the largest observatories use.</p>
+			<p>To rapidly come up to speed, we will follow standard references on the subject, including:</p>
+			<ul>
+				<li><a href="http://www.springer.com/us/book/9783319327495">Practical Guide to Lightcurve Photometry and Analysis, 2nd Edition</a>, Brian D. Warner, Springer, 2016.</li>
+				<li><a href="http://www.physics.csbsju.edu/370/photometry/manuals/OU.edu_CCD_photometry_wrccd06.pdf">An Introduction to Astronomical Photometry Using CCDs</a>, W. Romanishin, University of Oklahoma, 2006.</li>
+				<li><a href="https://www.aavso.org/sites/default/files/publications_files/ccd_photometry_guide/CCDPhotometryGuide.pdf">The AAVSO Guide to CCD Photometry, v1.1</a>, American Association of Variable Star Observers, 2016.</li>
+				<li><a href="http://www.astrodennis.com/Guide.pdf">A Practical Guide to Exoplanet Observing, Revision 2.2</a>, Dennis M. Conti, December 2016, www.astrodennis.com.</li>
+			</ul>
+			<p>For additional detail on the sequence of learning and operational steps we will follow, see our <a href="resources/IndependentStudyPetition-2016-11-10.pdf">independent study petition</a>.</p>
+		</div>
+		
+		<!-- Equipment -->
+		<div class="docs-section" id="equipment">
+			<h6 class="docs-header">Equipment</h6>
+			<p>The Geissberger Observatory is a capable research instrument, and we could proceed directly to using it. However, just as one would do well to spend some time sailing a dinghy before taking out a yacht, it is highly advisable to completely understand the subsystems we will be using in a more convenient and forgiving setting.</p>
+			<p>While inventorying the College's equipment, we have identified two 7&Prime; Maksutov-Cassegrains and a 102mm apochromat refractor that are currently unused. Our first order of business will be to enable these small scopes to do photometry while riding our Paramount MYT, which is a smaller version of the Paramount ME mount that the College's 16" Meade rides. Everything learned in this environment is applicable to the Geissberger, because the hardware and software are compatible. Lest the steepness of the software learning curve be underestimated, we should note that the software for running a telescope is separate from the software for analyzing CCD image data, and it consists of:</p>
+			<ul>
+				<li>Planetarium-Like Software</li>
+				<li>Pointing/Guiding Software</li>
+				<li>Automated Focusing, Filter Control, and Camera Control Software</li>
+			</ul>
+			<p>The software that the Geissberger uses for these three functions are TheSkyX Professional, TPoint, and the associated Camera Add-On, respectively. The smaller Maksutov-Cassegrains will ride the Paramount MYT using this very same software. A major plus of these packages is that unlike the packages used to run many small telescopes, they are cross-platform. This frees us to run on the Mac (or Linux/Unix) platforms that professional astronomers often use and that the Department has standardized on in its laboratories.</p>
+			<p>The Geissberger has a Van Slyke Engineering focuser whose functionality we do not plan to duplicate on the smaller telescopes.</p>
+			<p>The remaining equipment, which can be attached to any of these telescopes, consists of Santa Barbara Instrument Group (SBIG) and Orion cameras and an SBIG filter wheel.<p>
+			<p>It may be necessary to replace or add to our set of filters. Other equipment unknowns are that our storage facilities have not been adequate. The container at the pad near the Geissberger has been penetrated by mice, and this, time and dampness may cause some unpleasant surprises as we start actively using the equipment that was stored there. That said, by far the largest investments have already been made and most of the equipment is known to be sound.</p>
+			<p>Finally, lest one feel paralyzed by the unknowns just mentioned, it is important to note that were we to encounter equipment problems with any one configuration, the department is blessed with mutiple configurations to fall back on.</p>
+		</div>
+		
+		<!-- Results -->
+		<div class="docs-section" id="results">
+			<h6 class="docs-header">Results</h6>
+			<p>Per the objectives and evaluation criteria in the aforementioned <a href="resources/IndependentStudyPetition-2016-11-10.pdf">independent study petition</a>, we have two major goals, one operational and one scientific:</p>
+			<ul>
+				<li>Our operational goal is simply to be able to systematically and regularly collect data using both our smaller telescopes that ride our portable Paramamount MYT and the 16" scope riding a Paramount ME in the dome above campus.  We will produce manuals covering both of these configurations so that other members of the Saint Mary's community can more rapidly follow our footsteps. Target audience members for the manuals are Physics faculty members and Physics seniors.</li>
+				<li>Our principal scientific goal is to have light curve data on one or more dipper stars accepted into the AAVSO database and to have a poster session prepared in time for the joint AAVSO and Society for Astronomical Sciences (SAS) meeting in June, 2017 in Ontario, California.</li>
+			</ul>
+			<p>Our first presentation, <em>Launching a Variable-Star Observing Program at the Geissberger Observatory</em> (<a href="../../../faculty/brianhill/presentations/VSO-2017-02-22.pdf">Slide Deck, PDF, 45MB</a>), documents our preparatory steps.</li>
+		</div>
+		
+		<!-- Team -->
+		<div class="docs-section" id="team">
+			<h6 class="docs-header">Team</h6>
+
+			<p><a href="../../../faculty/brianhill/index.html">Prof. Brian R. Hill, Ph.D.</a> is leading the astrophysical methods independent study and research. His interests are theoretical physics, computational physics, and astrophysical methods.</p>
+			
+      <p>The student researchers are both seniors in the Saint Mary's Physics &amp; Astronomy Department:</p>
+      <div>
+        <div class="row">
+          <div class="six columns">Katherine Damiano's aptitude for mathematics led her to take freshman physics from Prof. Edward Boyda, and she immediately realized that she wanted to major in physics. She has done research with Prof. Boyda and Prof. Roy Wensley in Saint Mary's photon correlation laboratory.</div>
+          <div class="six columns">Justin Robinson has done research with the ALFALFA Program and the Arecibo radio telescope under the guidance of Prof. Ron Olowin. He is currently applying to graduate programs in Astrophysics for the 2017-2018 academic year.</div>
+        </div>
+      </div>
+			<p></p>
+			<p>The team would like to acknowledge those who have generously shared their expertise to help us get started, especially Prof. Hans de Moor of the Saint Mary's Mathematics Department and Tom Scarry, Physics &amp; Astronomy Department Technician, Sacramento State.</p>
+		</div>
+		
+	</div> <!-- Container -->
+
+</body>
+</html>

@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>MA/CS 197, Cloud Software Development (Google App Engine Programming in Python)</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="images/favicon.png">
+
+</head>
+<body>
+
+  <div class="container">
+
+    <div class="row">
+      <div class="two columns">
+        <a href="../../index.html"><img class="u-full-width" src="images/favicon.png" alt="Department Home"></a>
+      </div>
+      <div class="eight columns">
+        <h4>Cloud Software Development</h4>
+        <h5><em>Google App Engine Programming in Python</em></h5>
+        <h5>MA/CS 197, Fall 2016, Tuesday, 3:00-4:05, Galileo 105</h5>
+        <h6><em>Information on this page is current as of November 10th, 2016.</em></h6>
+      </div>
+      <div class="two columns">
+	<a href="http://www.stmarys-ca.edu"><img class="u-full-width" src="images/smc_logo.png" alt="St. Mary's Home"></a>
+      </div>
+    </div> <!-- row -->
+
+    <div class="row">
+      <div class="two columns">
+	<p>Jump to <a href="#outline">Outline</a></p>
+      </div>
+      <div class="eight columns">
+
+        <!-- Instructor -->
+        <div class="docs-section" id="instructor">
+          <h5 class="docs-header">Lecturer</h5>
+          <p><a href="../../../faculty/brianhill/index.html">Prof. Brian R. Hill, Ph. D.</a> (follow this link for contact and office hours)</p>
+        </div>
+
+        <!-- Software -->
+        <div class="docs-section" id="software">
+          <h5 class="docs-header">Software</h5>
+          <p>We will use IntelliJ IDEA Ultimate with various Python extensions and the Google App Engine SDK:</p>
+          <ul>
+            <li><a href="https://www.jetbrains.com/idea/">IntelliJ IDEA</a> (Version 2016.2) free for students</li>
+            <li><a href="https://www.python.org/downloads/">Python 2.7</a> (Version 2.7.10 is good enough)</li>
+            <li><a href="https://cloud.google.com/appengine/downloads">Google App Engine SDK for Python</a> (Version 1.9.40)</li>
+          </ul>
+        </div>
+
+        <!-- References -->
+        <div class="docs-section" id="references">
+          <h5 class="docs-header">References</h5>
+          <ul>
+            <li><a href="http://shop.oreilly.com/product/0636920033219.do">Programming Google App Engine with Python</a> by Dan Sanderson (Google)</li>
+            <li><a href="https://www.coursera.org/learn/machine-learning/">Stanford University/Coursera Course on Machine Learning</a> by Prof. Andrew Ng (Baidu/Coursera/Stanford)</li>
+            <li><a href="http://www.jhuapl.edu/spsa/PDF-SPSA/Handbook04_StochasticOptimization.pdf">Stochastic Optimization</a> by Dr. James Spall, (John Hopkins University Applied Physics Laboratory)</li>
+          </ul>
+        </div>
+
+        <!-- Assignments -->
+        <div class="docs-section" id="references">
+          <h5 class="docs-header">Examples and Assignments</h5>
+          <p>GitHub Location for <a href="https://github.com/cs197">Examples and Assignments</a></p>
+        </div>
+
+        <!-- Outline -->
+        <div class="docs-section" id="outline">
+          <h5 class="docs-header">Outline</h5>
+          <p>We will cover the following topics:</p>
+          <ul>
+            <li>Getting Started</li>
+            <ul>
+              <li>Using a Python IDE (IntelliJ IDEA Ultimate)</li>
+              <li>Running and Debugging</li>
+              <li>Unit Testing with the unittest Library</li>
+              <li>PEP8 Conformance</li>
+              <li>Example/Review: Get Pokemon or Other Algorithm from Your Last Python Course Running Under IntelliJ</li>
+            </ul>
+            <li>Google App Engine Front End</li>
+            <ul>
+              <li>Google App Engine SDK</li>
+              <li>Web Servers</li>
+              <li>Debugging Web Apps</li>
+              <li>Example: Hello World</li>
+              <li>Python webapp2 Library</li>
+              <li>Request Handling</li>
+              <li>Response Writing</li>
+              <li>Example: Guestbook</li>
+            </ul>
+            <li>Representational State Transfer (REST)</li>
+            <ul>
+              <li>HTTP GET/POST/PUT/DELETE</li>
+              <li>Datastore Create/Read/Update/Delete (CRUD)</li>
+              <li>JSON Request Bodies and JSON Responses</li>
+              <li>Controlling API Access with Google's OAuth Service</li>
+              <li>Example: Tic-tac-toe</li>
+            </ul>
+            <li>Google App Engine Datastore</li>
+            <ul>
+              <li>Using ndb library for reading from and writing to the Datastore</li>
+              <li>Example/Assignment: RESTful Movies</li>
+              <li>Querying from the ndb library</li>
+              <li>Example/Assignment: RESTful Movies (Part II &mdash; Queries)</li>
+            </ul>
+            <li>Google App Engine Task Queues</li>
+            <ul>
+              <li>Task Queues for deferring time-consuming, but not time-critical operations</li>
+              <li>Example/Assignment: RESTful Movies (Part III &mdash; Recalculating Rating Averages)</li>
+            </ul>
+            <li>Statistical Learning</li>
+            <ul>
+              <li>Collaborative Filtering <a href="https://www.coursera.org/learn/machine-learning/lecture/Rhg6r/problem-formulation">Problem Formulation</a></li>
+              <li><a href="https://www.coursera.org/learn/machine-learning/lecture/uG59z/content-based-recommendations">Content Based Recommendations</a></li>
+              <li><a href="https://www.coursera.org/learn/machine-learning/lecture/2WoBV/collaborative-filtering">Collaborative Filtering (Iterative)</a></li>
+              <li><a href="https://www.coursera.org/learn/machine-learning/lecture/f26nH/collaborative-filtering-algorithm">Collaborative Filtering (Simultaneous Optimization)</a></li>
+              <li>Maybe Get To <a href="https://www.coursera.org/learn/machine-learning/lecture/CEXN0/vectorization-low-rank-matrix-factorization">Low Rank Matrix Factorization</a> and <a href="https://www.coursera.org/learn/machine-learning/lecture/Adk8G/implementational-detail-mean-normalization">Mean Normalization</a></li>
+             </ul>
+             <li>Optimization Methods</li>
+               <ul>
+                 <li>Newton's Optimization Method for One Dimension</li>
+                 <li>Example/Assignment: Minimization of a Quartic Cost Function</li>
+                 <li>Newton's Optimization Method for Two and More Dimensions</li>
+                 <li>Example/Assignment: Photocurrent Fit</li>
+                 <li>Stochastic Optimization for Higher Dimensions</li>
+                 <li>Example/Assignment: Stochastic Optimization Part I (Preliminaries, including Generating Perturbations and Using the Simultaneous Approximation to Get Derivatives)</li>
+                 <li>Stochastic Optimization with </li>
+                 <li>Example/Assignment: Stochastic Optimization Part II (Looping a la Spall)</li>
+               </ul>
+             <li>Tie Client and Server Together</li>
+               <ul>
+                 <li>Example/Assignment: Create RESTful iOS client that fetches all reviews for a movie</li>
+               </ul>
+            </ul>
+          </ul>
+        </div>
+    </div> <!-- eight columns -->
+  </div> <!-- row -->
+
+</div> <!-- container -->
+
+</body>
+</html>
+

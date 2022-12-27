@@ -1,0 +1,206 @@
+<html>
+<head>
+<!-- Basic Page Needs -->
+<meta charset="utf-8">
+   <title>
+     Loops and Orbits: Programming for Aspiring Rocketeers
+   </title>
+   <meta name="description" content="Syllabus for Saint Mary's College of California Jan 033, Orbits and Loops, January 2020.">
+   <meta name="author" content="Brian Hill"><!-- Mobile Specific Metas -->
+   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- FONT -->
+   <link href='https://fonts.googleapis.com/css?family=Raleway:400,300,600' rel='stylesheet' type='text/css'><!-- Skeleton Framework 1.1.1 https://skeleton-framework.github.io CSS -->
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton-framework/1.1.1/skeleton.min.css">
+</head>
+
+<body class="code-snippets-visible">
+<!-- Container -->
+<div class="container">
+	<!-- Title -->
+	<section class="header">
+		<h2 class="title">
+			Loops and Orbits
+		</h2>
+		<h3>
+			<em>Programming for Aspiring Rocketeers</em>
+		</h3>
+		<h3 class="title">
+			Jan Term, 2020
+		</h3>
+		<h6>
+			<em>Syllabus, revised January 30th, 2020 (added <a href="https://github.com/observatree/loops-and-orbits/blob/master/final_projects/teams.md">final projects</a> links)</em><br/><br/>
+			<em><a href="./Jan033-20J-SyllabusForPrinting.pdf">Printable version (PDF)</a> of this syllabus</em>
+		</h6><!-- ><h6><em>Updates to the syllabus will be available at:</em></h6> -->
+		<!-- The following URL is deliberately absolute to help locate the current syllabus from the PDF version -->
+		<!-- ><h6><em><a href="http://physics.stmarys-ca.edu/faculty/brianhill/courses/Jan033/20J/index.html">physics.stmarys-ca.edu/faculty/brianhill/courses/Jan033/20J</a></em></h6> -->
+	</section><!-- Instructor -->
+	<div class="docs-section" id="instructor">
+		<h5 class="docs-header">
+			Instructor
+		</h5><!-- The following URL is deliberately absolute to help locate my home page from the PDF vresion -->
+		<p>
+			<a href="http://physics.stmarys-ca.edu/faculty/brianhill/index.html">Prof. Brian Hill</a>
+		</p>
+	</div><!-- Brief Course Description -->
+	<div class="docs-section" id="brief">
+		<h5 class="docs-header">
+			Brief Course Description
+		</h5>
+		<p>
+			We will write programs to solve some of the most interesting problems in mechanics: free fall in a uniform gravitational field, free fall in Newton's Universal Theory of Gravitation, circular planetary motion, elliptical planetary motion, and the fuel burns needed for spacecraft launches. You will need no calculus. Python and Jupyter will do the calculations and graphing. However, you will need the same preparation (Math 12 or Level 3 Math Placement) that you would need if you were about to learn calculus. You will be scratching the surface of the field of computational physics that is used for problems as diverse as quantifying sea-level rise and modeling stellar formation.
+		</p>
+	</div><!-- Detailed Course Description  -->
+	<div class="docs-section" id="detailed">
+		<h5 class="docs-header">
+			Detailed Course Description
+		</h5>
+		<p>
+			Only the very simplest of physics problems can be described with algebra and geometry alone. That said, introductory physics is mostly taught in year-long courses using only algebra, the first semester of such a course focuses mostly on mechanics, and there is already more than enough content in a semester of algebra-based mechanics to prove daunting for most college students.
+		</p>
+		<p>
+			Furthermore, while daunting, such courses, even when mastered, are simultaneously deeply dissatisfying, because the unifying principles of physics required to tackle harder physics problems require the infinitesimal calculus. Calculus-based physics is mastered by an even fewer number of college students, and yet is one of the greatest and most technologically significant legacies of the human mind. Is there an alternative way to access it?
+		</p>
+		<p>
+			The answer, I and others believe is "yes," (or this syllabus would not be written), and the means is the field of computational physics, which is typically not taught until at least the fourth semester in an undergraduate's career, despite its fundamental simplicity and its centrality in 21st century physics.
+		</p>
+		<p>
+			In this course we will approach mechanics using computational physics instead of calculus. As noted in the brief course description above, we will tackle many of the same problems that are tackled in an introductory mechanics course: free fall in a uniform gravitational field, free fall in Newton's Universal Theory of Gravitation, circular orbital motion, elliptical orbital motion, and finally we will compute the transfer orbits that are used to do things like insert satellites into geosynchronous orbit.
+		</p><img class="u-max-full-width" src="./resources/NewtonPrincipiaDiagram.png" alt="Newton's gravitation thought experiment">
+		<p>
+			<small>Caption: Newton's thought experiment in Newton's <em>Principia</em> (source: <a href="https://en.wikisource.org/wiki/Page:Newton%27s_Principia_(1846).djvu/519">Wikimedia</a>)</small>
+		</p>
+		<p>
+			We will be able to visualize the solutions to these problems in the same software as we do the Python coding by relying on <a href="https://jupyter.org">Jupyter</a>, a full-featured and mature scientific computing environment, which in turn relies on several mature scientific computing and visualization libraries: numpy, matplotlib, and pandas. You will be developing an intuition for calculus, not using the infinitesimal calculus, but by coding in Python to have the computer solve the problems using small temporal steps, and by studying the results of the calculations as they are presented graphically in Jupyter.
+		</p>
+		
+		<p>
+			To motivate what we will be doing on the computer science front, first imagine that all sorts of people that were creative cooks ran all the restaurants, but that most of them actively avoided aquiring expertise in personnel management and food safety, and furthermore, that there were no city and county health departments that licensed restaurants.
+		</p>
+		<p>
+			That's the past, present, and future state of the software industry, except cooking is programming, personnel management is project management, and food safety is quality assurance and security. This sounds very bad, but the Wild West state of affairs is on balance a good thing for continued rapid innovation in software. The day software (or physics) becomes a licensed profession is the day it becomes moribund.
+		</p>
+		<p>
+		To lessen the chance that you will be the cause of the software equivalent of food poisoning, I will try to teach somewhat more than just programming. Specifically, I will have time to include some software development best practices, including documentation, coding style for readability and maintainability, unit testing, working with professional software development tools such as the debugger, and even do a bit of agile project management during the final project phase of the course.
+	  </p>
+	</div><!-- Detailed Course Description  -->
+	<div class="docs-section" id="schedule">
+		<h5 class="docs-header">
+			Schedule
+		</h5>
+		
+		<h6>Week 1</h6>
+
+		<ul>
+			<li>
+				Physics &amp; Math: The Description of Motions of Objects in 1-D including Coordinates, Units, Speed, Velocity, and Acceleration.
+			</li>
+			<li>
+				Computer Science: Jupyter Notebooks. Documentation in Markdown. Elements of Python including Expressions, Statements, Variables and Assignments, Types (Lists, Tuples, and Ranges), Control Flow (While and For loops), and introducing Functions.
+			</li>
+		</ul>
+		
+		<h6>Week 2</h6>
+
+		<ul>
+			<li>
+				Physics and Math: The Description of Motions of Objects in 2-D. Projectile Motion. Two-Dimensional Acceleration. Newton's Universal Theory of Gravitation
+			</li>
+			<li>
+				Computer Science: Continue Discussion of Functions, Scope and Lifetime of Variables. Libraries. Testing. Debugging. Dot Notation for Library Functions and Object Methods.
+			</li>
+		</ul>
+
+		<h6>Week 3</h6>
+
+		<ul>
+			<li>
+				Physics, Math, and Applications: Circular and Elliptical Orbits. Modeling Battery Charging. Modeling Economic Growth. Kepler's Laws. Energy Conservation.
+			</li>
+			<li>Computer Science: Numpy. Mutability, Assignment, and Performance of Python Lists and Numpy Arrays. Second Order Runge-Kutta and Midpoint Method Improvememts to Euler and Euler-Cromer Update Methods. Data Visualization with Pandas.
+			</li>
+		</ul>
+	
+		<h6>Week 4</h6>
+		<ul>
+			<li>
+				Final Project: Planning, Selection, Work, and Presentations.
+			</li>
+		</ul>
+		
+		<h6>Daily Schedule</h6>
+		<ul>
+			<li>A <a href="https://github.com/observatree/loops-and-orbits#daily-schedule">Daily Schedule</a> is being retrospectively maintained on GitHub.
+			</li>
+		</ul>
+	</div><!-- Schedule -->
+	
+	<div class="docs-section" id="final-projects">
+		<h5 class="docs-header">
+			Final Projects
+		</h5>
+		<p>
+			To give you a chance to build Jupyter notebooks of your own, and to see what a huge variety of fields the methods we are learning can be applied to, the last week (25%) of the class will be devoted to creating and presenting final projects:
+			<ul>
+				<li>
+					Final Project <a href="https://github.com/observatree/loops-and-orbits/blob/master/final_projects/plan.md">plan</a>
+				</li>
+				<li>
+					Final Project <a href="https://github.com/observatree/loops-and-orbits/blob/master/final_projects/teams.md">teams</a>
+				</li>
+			</ul>
+		</p>
+	</div><!-- Final Projects -->
+	
+	<div class="docs-section" id="prerequisites">
+		<h5 class="docs-header">
+			Prerequisites
+		</h5>
+		<p>
+			It would be pointless and circular if a course that is supposed to help you develop an understanding of mechanics and calculus required calculus as a prerequisite. However, the same math that makes one ready for calculus makes one ready for computational physics, and therefore pre-calculus (Math 12 or Level 3 Math Placement) <em>is</em> a prerequisite.
+		</p>
+	</div><!-- Grading -->
+	<div class="docs-section" id="grading">
+		<h5 class="docs-header">
+			Grading
+		</h5>
+		<p>
+			15% for each of 4 assignments. 15% for midterm (on 2nd Friday, Jan. 17). 25% for final project with presentation to class.
+		</p>
+	</div><!-- References  -->
+	<div class="docs-section" id="references">
+		<h5 class="docs-header">
+			References
+		</h5>
+		<h6>
+			Computational Physics
+		</h6>
+		<ul>
+			<li>
+				<em>Numerical Methods for Physics,</em> Alejandro L. Garcia, Pearson, 1994, can be purchased used on <a href="https://www.abebooks.com/products/isbn/9780131519862">AbeBooks</a>. This course draws from Chapters 2 and 3.
+			</li>
+		</ul>
+		<h6>
+			Computer Science
+		</h6>
+		<ul>
+			<li>A pedantic Python reference that is ideal for people who have never done any programming is <a href="https://learnpythonthehardway.org/python3">Learn Python 3 The Hard Way</a> (LP3THW). By the way, Python 2 is rapidly becoming obsolete. You should not consider learning it at this point. If you like LP3THW you'll want to buy the PDF. Enough of it is on the web in HTML to get a start and evaluate whether it is right for you.
+			</li>
+			<li>We need an environment where we can put the physics, math, and software together without spending an inordinate amount of time building up the basics. Our environment is the Anaconda distribution of Python and Jupyter. Try <a href="https://www.dataquest.io/blog/jupyter-notebook-tutorial/">Jupyter Notebook for Beginners: A Tutorial</a> by Benjamin Pryke.
+			</li>
+			<li>Jupyter can be run on-line without installing any software using <a href="https://mybinder.org">Binder</a>. That will get us started extra quickly. By using Binder, we can postpone learning how to run Python and Jupyter locally until the 2nd week.
+			</li>
+			<li>If you want to put Anaconda on your own machine, you can. The 2019.10 version installed on our lab machines was obtained from the <a href="https://www.anaconda.com/distribution/">Anaconda Distribution</a> web page. It includes Python 3.7 and Jupyter 6.0.
+			</li>
+			<li>Software is complex and easily editable. If you start doing significant projects, the complexity and speed of change make change management essential. The most popular change management system is git. It is a great leap forward from the systems that preceded it (CVS and Subversion). If you want to understand git instead of just memorizing the most common commands, read Travis Swicegood's <a href="https://pragprog.com/book/pg_git/pragmatic-guide-to-git">Pragmatic Guide to Git</a>. After you have used git for a couple of months, take a deep dive into <a href="https://git-scm.com/book/en/v2/Git-Internals-Git-Objects">Git Objects</a> to get much clearer on how git works.
+			</li>
+		</ul>
+		<h6>
+			Python Labs
+		</h6>
+		<p>
+			All twelve Jupyter Notebooks for the course are in the <a href="https://github.com/observatree/loops-and-orbits">Loops and Orbits Repository</a> on GitHub. GitHub is cloud hosting for git. You can view the notebooks online. Or you can make a free GitHub account and fork and clone the entire repository. Or you can follow the procedure on page 2 of my directions for <a href="https://github.com/observatree/loops-and-orbits/blob/master/computer_science/lao-2-1-cs.pdf">using the lab iMacs</a> to download the notebooks one at a time.
+		</p>
+	</div><!-- References -->
+	
+</div><!-- Container -->
+</body>
+</html>

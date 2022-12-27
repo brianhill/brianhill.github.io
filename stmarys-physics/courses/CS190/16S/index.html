@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>MA/CS 190, Mobile Software Development (iOS Programming in Swift)</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="images/favicon.png">
+
+</head>
+<body>
+
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <div class="container">
+
+    <div class="row">
+      <div class="two columns">
+        <a href="../../index.html"><img class="u-full-width" src="images/favicon.png" alt="Department Home"></a>
+      </div>
+      <div class="eight columns">
+        <h4>Mobile Software Development</h4>
+        <h5><em>iOS Programming in Swift</em></h5>
+        <h5>MA/CS 190, Spring 2016, 9:45-11:20AM, Garaventa 250</h5>
+      </div>
+      <div class="two columns">
+	<a href="http://www.stmarys-ca.edu"><img class="u-full-width" src="images/smc_logo.png" alt="St. Mary's Home"></a>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="two columns">
+        <p><a href="./Team%20Projects/TeamProjects.html">Team Projects</a></p>
+	<p><a href="#schedule">Schedule</a></p>
+      </div>
+      <div class="eight columns">
+        <h6><em>Breaking news (9/12/2016): Revel's <a href="./hackathon_winners.html">Hackathon Grand Prize Winners</a> are Jung Kim, Rui Li, Rahul Murthy, and Sanjay Shrestha.</em></h6>
+
+        <!-- Instructor -->
+        <div class="docs-section" id="instructor">
+          <h5 class="docs-header">Lecturer</h5>
+          <p><a href="../../../faculty/brianhill/index.html">Prof. Brian R. Hill, Ph. D.</a> (follow this link for contact and office hours)</p>
+        </div>
+
+        <!-- Software -->
+        <div class="docs-section" id="software">
+          <h5 class="docs-header">Software</h5>
+          <p>We are finishing out this course using Xcode 7.3, Swift 2.2, Mac OS X 10.11.4 and iOS 9.3.1. In this course, the goal is to stay cutting edge, but because you are learning something new, it is a good idea to avoid the bleeding edge (specifically, please avoid the betas of Xcode 7.3.1, Mac OS X 10.11.5 and iOS 9.3.2).</p>
+        </div>
+
+        <!-- Textbook -->
+        <div class="docs-section" id="textbook">
+          <h5 class="docs-header">Textbook</h5>
+          <p>Because the principal documentation is on-line resources provided for free by Apple, there is no required textbook. The first and foremost of these documents is <a href="https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11">The Swift Programming Language (Swift 2.2)</a>.</p>
+          <p>Also, I looked at a lot of books on Swift before deciding that there was no single book it made sense to require. If you want to purchase some of these books see the <a href="#bibliography">Annotated Bibliography</a>. The one I would most call your attention to if you are finding the course easy is "Advanced Swift" by Eidhof and Velocity. Conversely, if you are having a rough time in the course, consider "Learn to Code in Swift" by McNeish.</p>
+          <p>Finally, the README in each Problem Set (for example, <a href="http://github.com/brianhill/cs190-ps1.git">Problem Set #1</a>) has additional references relevant for that week's lectures and problems.</p>
+        </div>
+
+        <!-- Why -->
+        <div class="docs-section" id="why">
+          <h5 class="docs-header">Why iOS Programming in Swift?</h5>
+          <ul>
+            <li>Swift is a best-of-breed language that builds on decades of hard lessons learned from other languages and systems. I think one could easily flip the "why" question on its head and ask why are so many courses still offered in languages that are long past their pull date? How was the software community ever enamored with a bloated system that paused for an arbitrary amount of time to do a garbage collection sweep? In the international world in which we live, shouldn't it be a non-starter to write in any language that isn't Unicode from the bottom up? After decades of hacks and security patches from every major vendor, shouldn't it be grounds for ejection from the ranks of engineers to start a project in a language that routinely allows stray pointers to execute or overwrite arbitrary parts of memory? Since multiple-inheritance is rarely used in practice, why learn object-oriented programming in a language that features it?</li>
+            <li>As of December, 2015, the lower layers of Apple's Swift software have been made open source, and I expect you will soon be seeing server software written in Swift and deployed on Linux. Apple could be positioning itself to make Swift a server-side (cloud) solution as well as a client language.</li>
+            <li>Not only will open-sourcing the language accelerate the pace and platforms of adoption, it also erodes the "it's too proprietary" complaint. Of course, Apple is keeping loads of the higher layers proprietary, similarly to Google keeping their services out of the open-sourced parts of Android, but at least the language itself and the core libraries are not only available on other platforms, but you can inspect the source, see how the insiders at Apple write their code, and maybe even improve their code.</li>
+            <li>Finally, St. Mary's would like you to change the world&mdash;or at least find a good home in a team that is changing the world&mdash;and if those world-changing plans involve a mobile app, it makes sense to prototype it on iOS. Most startups prototype on iOS first for so many reasons I won't try to enumerate them.</li>
+         </ul>
+
+         <p>Actually, I will elaborate by giving an example of the last point. Consider Getaround, whose original business model could be summarized as "AirBnB for cars." They evolved their mobile rental business model and remote unlock solution using iOS and the web. Only in November, 2014 after five years of evolving and expanding did they <a href="http://blog.getaround.com/announcing-getaround-for-android/">announce their Android app</a>. Imagine a company that is learning and pivoting as fast as it can also having to keep two mobile teams staffed and synchronized. Since I worked there, I can assure you that is an added burden they could do without.</p>
+        <p>If none of that was compelling, just face the fact that the cellular network and mobile computing are now ubiquitous, and understanding how it works and what it can do is not possible to explore that without at least partially embedding yourself in one or another proprietary systems.</p>
+        </div>
+
+        <!-- Overview -->
+        <div class="docs-section" id="overview">
+          <h5 class="docs-header">Overview</h5>
+          <p>I intend&mdash;through lectures and problem sets&mdash;to lead you to the point where you can build simple applications in Swift confidently. This will likely take us the first six weeks of the term. With that foundation, you will choose and implement a project. While you are doing that we will continue to learn more advanced features of Swift and iOS.</p>
+          <p>A practicing software engineer needs skills in three major areas: (1) the technology du jour, which for purposes of this course is iOS and Swift, (2) good engineering practices, which are considerably more timeless, (3) computer science knowledge, which transcends any specific technology, and can approach the rigor of mathematics, but which is sufficiently abstract and academic that it isn't actually very much in play on any given project.</p>
+          <p>The bulk of the engineers in Silicon Valley are only expert in the first area even if they have degrees in computer science. This gives them a short shelf life, unless they have the energy to keep up with the latest fads. If you desire to be really good for more than a few years, you should develop all three areas. Our class will have about 60/20/20 emphasis on the three areas. Almost all intros to iOS programming are more like 85/10/5. That's why we aren't using someone else's cookbook intro. See the Bibliography for a recommendation if that style attracts you.<p>
+          <p>A successful software engineer also needs good marketing sense, good business and financial sense, affability and good teamwork. You'll get a taste of how important all the skills are when you are doing your project.</p>
+        </div>
+
+        <!-- Exams and Grading -->
+        <div class="docs-section" id="grading">
+          <h5 class="docs-header">Problem Sets, Projects, Exams and Grading</h5>
+          <p>All Problem Sets will be distributed and returned using GitHub. GitHub is cloud-hosted git. Git solves the problem of distributed version control, a problem so complex it was not obvious it has a reasonable solution until git became proven. The same person that is behind Linux is behind git. Linus Torvalds has achieved the same level of influence as Richard Stallman with this and I wouldn't be surprised if in the very long-term Torvalds is more rememembered for git than Linux.</p>
+          <p>My GitHub account is <a href="https://github.com/brianhill">github.com/brianhill</a>. GitHub accounts are free. Go to that link. Make sure you can find <a href="https://github.com/brianhill/cs190-ps1">Problem Set #1</a> and then start following the directions in the README.
+          <p>There will be a project in the latter half of the term. I have never taught or been part of a course that had a project as a significant part of its grade. We're doing it anyway, because it is very important to experience the software development lifecycle, and for those of you that are thinking of getting a job in Silicon Valley, to start proving that you can bring ideas to fruition by developing a portfolio.</p>
+          <p>The Midterm and Final will use the same format as the problem sets. Thanks to the fact that IT has upgraded the machines in Garaventa to have Xcode 7.2.1 we will be able to conduct the Midterm in Xcode rather than writing it out.</p>
+          <p>What I want to test on exams is that you understand Swift's language features, including both basic and intermediate-level ones.</p>
+          <p>The grading breakdown will be 40/20/20/20, where the percentages are Homework/Midterm/Project/Final. There will be approximately 80 points distributed over approximately 10 homeworks.</p>
+        </div>
+
+        <!-- Topics -->
+        <div class="docs-section" id="topics">
+          <h5 class="docs-header">Topics</h5>
+          <p>We will have topics in all of the three areas discussed in the Overview above. These topics will be interwoven. See the Detailed Schedule below (subject to amendment as the term progresses).
+          <h6><em>iOS Programming in Swift</em></h6>
+          <ul>
+          <li>Views, View Hierarchy, View Drawing in Custom Views, UIView</li>
+          <li>Controls, especially UIButton, Event Handling, Target-Action</li>
+          <li>View Controllers, Storyboarding, .xib files, UIViewController, Segues, UIImage, UIImageView</li>
+          <li>More Coming!! See Detailed Schedule below. Here I just put in the topics we're getting to in the first three weeks.</li>
+          </ul>
+          <h6><em>Software Engineering Practices</em></h6>
+          <ul>
+          <li>Collaboration with Distributed Version Control</li>
+          <li>Test-Driven Development</li>
+          <li>Agile Project Management, Feature Backlog</li>
+          <li>Defect Tracking and Quality Assurance</li>
+          </ul>
+          <h6><em>Computer Science</em></h6>
+          <ul>
+          <li>Low-Level Representation of Data and Instructions</li>
+          <li>Event-Driven Applications</li>
+          <li>Object-Oriented Programming</li>
+          <li>Functional Programming</li>
+          </ul>
+          <p></p>
+        </div>
+      
+        <div class="docs-section" id="schedule">
+          <h5 class="docs-header">Detailed Schedule</h5>
+
+          <table width="100%">
+		  <tr><th>Lectures&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th><th>Topics</th></tr>
+		  <tr><td>Feb 9</td><td>Git, Github, Distributed Version Control, Xcode Storyboards.</td></tr>
+		  <tr><td>Feb 11</td><td>Basic Swift Syntax, Local Variables, Statements. Views, View Hierarchy, View Drawing. Drawing in a Custom UIView.</td></tr>
+		  <tr><td>Feb 16</td><td>Events, UIButton, the Touch Up Inside vs. Touch Down Event, Making Target-Action Connections in Xcode, View Tags</td></tr>
+		  <tr><td>Feb 18</td><td>Model-View-Controller Pattern. Merging and Re-Ordering Commits (Rebasing), Shell Variables (particularly $EDITOR), A Few Emacs Commands, Test-Driven Development, XCTestCase, Executing Tests in Xcode.</td></tr>
+		  <tr><td>Feb 23</td><td>How Computers Store Numbers: Bytes, Nibbles, Octal, Binary, Hex, Binary Coded Decimal, 10's Complement Representation of Negative Numbers. HP-35 Registers, Signs, Mantissas and Exponents. How the HP-35 "Canonicalizes" User Input.</td></tr>
+		  <tr><td>Feb 25</td><td>View Transitions (Segues) in Storyboards, UIImage and UIImageView, Asset Management, the App Wrapper, UI Guidelines.</td></tr>
+		  <tr><td>Mar 1</td><td>Roles on a small app development team (including Product Manager, QA/Customer Service, Engineer), Agile Project Managment with Pivotal (or Trello), what makes a good Task/Story in Pivotal, Section 4.1 of "Advanced Swift" (By-Copy and By-Reference Semantics, especially for arrays), NSArray, NSMutableArray, upcasting, downcasting, Section 4.2 of "Advanced Swift", Functions as First-Class Objects, Closures, anyPower example.</td></tr>
+		  <tr><td>Mar 3</td><td>Finish Section 4.2 of "Advanced Swift", especially, map, filter and reduce. Introduce UITableView by starting an app to display upcoming softball games.</td></tr>
+		  <tr><td>Mar 8</td><td>Inheritance of methods and how they are overridden. The difference between run-time binding and compile-time binding. Protocols and how they are in practice less likely to make a mess than multiple inheritance. An exposure to how delegation and protocols are used by Apple in UITableViewDataSource and UITableViewDelegate. UITableView is important, but it is also so complex that we'll also do a UITextViewDelegate example next class.
+		  <tr><td>Mar 10</td><td>A UITextViewDelegate example in which the delegate tells the text view to resign first responder when a newline is entered. Explain the keywords self and super and how to use them to access and "chain" superclass methods. Explain the difference between instance methods and class methods. Introduce instance variables and show how they are inherited. The difference between instance variables and class variables. Introduce the static keyword.</td></tr></td></tr>
+		  <tr><td>Mar 15</td><td>Review escaping in character sets and explain why one of the Rot13 test cases failed (the one with Cantonese). Discuss branches in GitHub. Discuss how branching is used for teams working in parallel (e.g., ios-9_3 branch in parallel with ios10 branch). Review differences between rebasing and merging. Discuss and practice resolving conflicts when rebasing or merging (Cerypto rename). Brainstorming session for app ideas (see email with everyone's ideas collected).</td></tr>
+		  <tr><td>Mar 17</td><td>Midterm.</td></tr>
+		  <tr><td>Mar 29</td><td>RSA data encryption, Part I. Prime Number Utilities. Product Management. Agile Project Management. User Stories.</td></tr>
+		  <tr><td>Mar 31</td><td>Using Pivotal Tracker. Project Kickoff Meeting.</td></tr>
+		  <tr><td>Apr 5</td><td>RSA data enctryption, Part II. Public Key Generation. Encrypting with Public Key. Dictionaries and Sets. Performance considerations. Cache invalidation.</td></tr>
+		  <tr><td>Apr 7</td><td>Brief Project Status Presentations followed by Project Planning.</td></tr>
+		  <tr><td>Apr 12</td><td>Instance variables. Fancier instance variable techniques: getters, setters and computed values. Property observers. UITableView, UITableViewDataSource and UITableViewDelegate. Segues in storyboards. Using segues to pass data between view controllers.</td></tr>
+		  <tr><td>Apr 14</td><td>Brief Project Status Presentations followed by Project Planning.</td></tr>
+		  <tr><td>Apr 19</td><td>We illustrated the topics from April 12th by following three "envatotuts" tutorials starting with the <a href="http://code.tutsplus.com/tutorials/swift-from-scratch-inheritance-and-protocols--cms-23334">"Swift from Scratch: Inheritance and Protocols" tutorial</a>. When we picked up on April 19th, we also learned how to use git to check out at a specific revision (and discussed detached HEAD mode in git). The finished code from all three tutorials is in the <a href="https://github.com/brianhill/tutsplus-todo-app">tutsplus-todo-app repo in GitHub</a>.</td></tr>
+		  <tr><td>Apr 21</td><td>Brief Project Status Presentations followed by Project Planning.</td></tr>
+		  <tr><td>Apr 26</td><td>Two modulo arithmetic identities underlying RSA. Generics, SequenceType, CollectionType, GeneratorType (all of which are protocols relating to the collection classes). Protocols do not support generics&mdash;only classes, structs and enumerations. Protocols do support associated types. <a href="https://github.com/BesadaN/intermediate-swift/blob/master/3_4-CollectionProtocols.playground/Contents.swift">A playground</a> illustrating this material.</td></tr>
+		  <tr><td>Apr 28</td><td>Brief Project Status Presentations followed by Project Planning.</td></tr>
+		  <tr><td>May 3</td><td>Generics in enumerations. Optionals are enumerations. Exception Generation. Exception Handling.</td></tr>
+		  <tr><td>May 5</td><td>Brief Project Status Presentations followed by Project Planning.</td></tr>
+		  <tr><td>May 10</td><td>Automatic Reference Counting (ARC). Zombies. Performance tools for analyzing slow or bloated applications: (1) The profiling tool, and (2) The leaks tool. Strategies for speeding up slow apps (caching, off-loading work from the main thread). Example: we worked through the <a href="https://www.raywenderlich.com/97886/instruments-tutorial-with-swift-getting-started">Ray Wenderlich Xcode Instruments tutorial</a>.</td> The example has a very instructive situation where a leak of a view controller is caused by a closure. The retain cycle is: a table view retains its table view cells, each table view cell has a closure, and the closure retains a reference to the table view.</tr>
+		  <tr><td>May 12</td><td>Team Project Demos. See <a href="./Team%20Projects/TeamProjects.html">Team Projects</a>.</td></tr>
+		  <tr><td>May 19</td><td>Final, 8am-10am.</td></tr>
+	  </table>
+      </div>
+
+      <div class="docs-section" id="bibliography">
+        <h5 class="docs-header">Annotated Bibliography</h5>
+        <ul>
+          <li><a href="https://itunes.apple.com/us/book-series/swift-programming-series/id888896989">The Swift Programming Language (Swift 2.2)</a>&mdash;free reference by Apple&mdash;annoyingly verbose if you already have two programming languages under your belt, but definitive as far as beginning and intermediate-level Swift.</li>
+          <li><a href="https://pragprog.com/book/pg_git/pragmatic-guide-to-git">Pragmatic Guide to Git</a>&mdash;A reasonably gentle introduction to git. I often use this book when I have to do something that I don't do often&mdash;like cherry picking commits from one branch and putting them in another.
+          <li><a href="https://git-scm.com/book/en/v2">The Pro Git Book</a> is a little less gentle of an introduction&mdash;you can't fully understand what git is doing unless you learn about its data structures. For the data structures the section in Git Internals Chapter, <a href="https://git-scm.com/book/en/v2/Git-Internals-Git-Objects">Git Objects</a> is indispensable.</li>
+          <li><a href="https://itunes.apple.com/us/book/learn-to-code-in-swift/id942956811">Learn to Code in Swift</a>&mdash;given that our course has two programming languages as prerequisites, this book is too introductory&mdash;however, amidst the multitude of cookbook-style books, this one stands out as being thoughtful and polished.</li>
+           <li>My repo containing a <a href="https://github.com/brianhill/basic-swift ">Basic Swift</a> playground.</li>
+           <li>My repo containing several <a href="https://github.com/brianhill/intermediate-swift">Intermediate Swift</a> playgrounds.</li>
+          <li><a href="https://www.objc.io/books/advanced-swift/">Advanced Swift</a>&mdash;a very recently completed book by Eidhof and Velocity. I made heavy use of Chapter 3 this book when preparing several lectures and problem sets.</li>
+          <li><a href="https://www.objc.io/books/functional-swift/">Functional Programming in Swift</a>&mdash;this book The idea of this book is to round out your knowledge of the major programming styles by making more use of Swift's functional programming features.</li>
+          <li>Since Swift is open source, you can go straight to the <a href="https://github.com/apple/swift/tree/master/stdlib/public/core">stdlib/public/core</a>.</li>
+          <li>Go to the <a href="http://swiftdoc.org/v2.2/">official Swift 2.2 documentation at swiftdoc.org</a> (auto-generated directly from Swift's open source). What you get from the auto-generated documentation is often a little more detailed than what you see in Xcode's help. For example, compare the discussion of Array.</li>
+        </ul>
+    </div>
+  </div>
+
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+</html>

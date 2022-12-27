@@ -30,25 +30,25 @@
 
 #### Physics
 
-* [Introduction to Physics I](http://physics.stmarys-ca.edu/courses/Phys001/18F/index.html)
-* [Introduction to Physics II](http://physics.stmarys-ca.edu/courses/Phys003/17S/index.html)
-* [Physics II Laboratory](http://physics.stmarys-ca.edu/courses/Phys004/20S/index.html)
-* [Modern Physics](http://physics.stmarys-ca.edu/courses/Phys060/15F/index.html)
-* [Quantum Mechanics](http://physics.stmarys-ca.edu/courses/Phys125/19F/index.html)
+* [Introduction to Physics I](./stmarys-physics/courses/Phys001/18F/index.html)
+* [Introduction to Physics II](./stmarys-physics/courses/Phys003/17S/index.html)
+* [Physics II Laboratory](./stmarys-physics/courses/Phys004/20S/index.html)
+* [Modern Physics](./stmarys-physics/courses/Phys060/15F/index.html)
+* [Quantum Mechanics](./stmarys-physics/courses/Phys125/19F/index.html)
 
 #### Astronomy 
 
-* [Introduction to Astronomy](./physics90/)
-* [Astronomy Laboratory](http://physics.stmarys-ca.edu/courses/Phys091/20S/index.html)
-* [Astrophysics](http://physics.stmarys-ca.edu/courses/Phys170/18S/index.html)
-* [Observational Astronomy](http://physics.stmarys-ca.edu/courses/Phys185/17S/index.html)
+* [Introduction to Astronomy](./stmarys-physics/courses/Phys090/20S/index.html)
+* [Astronomy Laboratory](./stmarys-physics/courses/Phys091/20S/index.html)
+* [Astrophysics](./stmarys-physics/coursesPhys170/18S/index.html)
+* [Observational Astronomy](./stmarys-physics/courses/Phys185/17S/index.html)
 
 #### Computer Science
 
-* [Cloud Software Development](http://physics.stmarys-ca.edu/faculty/brianhill/courses/CS197/16F/index.html)
-* [Loops and Orbits: Programming for Aspiring Rocketeers](http://physics.stmarys-ca.edu/faculty/brianhill/courses/Jan033/20J/index.html)
-* [Mobile Software Development](http://physics.stmarys-ca.edu/faculty/brianhill/courses/CS190/16S/index.html)
+* [Cloud Software Development](./stmarys-physics/courses/CS197/16F/index.html)
+* [Loops and Orbits: Programming for Aspiring Rocketeers](./stmarys-physics/courses/Jan033/20J/index.html)
+* [Mobile Software Development](./stmarys-physics/courses/CS190/16S/index.html)
 
 #### Seminar
 
-* [Seminar 1: Critical Strategies and Great Questions](http://physics.stmarys-ca.edu/faculty/brianhill/courses/Sem001/19S/index.html)
+* [Seminar 1: Critical Strategies and Great Questions](./stmarys-physics/courses/Sem001/19S/index.html)

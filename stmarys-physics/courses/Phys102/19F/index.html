@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="Physics 10 home">
+    <meta name="author" content="Jessica Kintner">
+    <link rel="icon" href="../../../shared/images/favicon.ico">
+
+    <title>Physics 102:  Computational Physics, Kintner </title>
+
+    <!-- Bootstrap core CSS -->
+      <!--<link href="../../../shared/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet"> -->
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug
+    <link href="../../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">-->
+
+    <!-- Custom styles for this template -->
+    <link href="navbar-fixed-top.css" rel="stylesheet">
+
+    <!-- my styles-->
+    <link href="mycss.css" rel="stylesheet">
+
+    <script src="http://physics.stmarys-ca.edu/MathJax/MathJax.js">
+      MathJax.Hub.Config({
+        extensions: ["tex2jax.js"],
+        jax: ["input/TeX","output/HTML-CSS"],
+        tex2jax: {inlineMath: [["$","$"],["\\(","\\)"]]}
+      });
+    </script>
+
+    </head>
+
+  <body>
+
+    <!-- Fixed navbar -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+    <!--<nav class="navbar navbar-default navbar-static-top">-->
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Physics 102, Fall 2019</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#topOfPage">Home</a></li>
+            <li><a href="#courseInfo">Course Info</a></li>
+            <li><a href="#courseCalendar">Calendar</a></li>
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+            <li class="active"><a href="http://physics.stmarys-ca.edu/jkintner/">Jessica Kintner<span class="sr-only">(current)</span></a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+    <div class="container" id="topOfPage">
+
+      <!-- Main component for a primary marketing message or call to action -->
+      <div class="jumbotron">
+
+        <h2>Physics 102:  Computational Physics in MATLAB</h2>
+        <h3> Professor Jessica Kintner </h3>
+        <p>This is the course web page for Physics 102, Fall 2019 </p>
+    <!--    <p>
+          <a class="btn btn-lg btn-primary" href="../../components/#navbar" role="button">View navbar docs &raquo;</a>
+        </p>-->
+      </div>
+
+
+      <div>
+        <div class="row">
+          <div class="col-xs-6">
+            <h3>  Jessica Kintner's Information: </h3>
+            <ul>
+              <li> Office:  Gal 106-B </li>
+              <li>  Office hours: TBA, and by appointment  </li>
+              <li>  email:  jkintner@stmarys-ca.edu  </li>
+            </ul>
+
+            <h3 id="courseInfo"> Class Information </h3>
+            <ul>
+              <li> <a href="syll_19f.pdf">Syllabus</a> </li>
+              <li> <a href="sched19f.pdf">Approximate Schedule</a> </li>
+              <li> <a href="textbook.pdf">textbook</a> </li>
+              <li> <a href="exams/exam1_19f.pdf"> copy of exam 1</a> </li>
+              <li> <a href="handouts/finalProjectAssignment.pdf">
+                    Final Project Assignment</a> </li>
+              <li> <a href="handouts/instructionsForLogFiles.pdf">
+                Instructions for turning in log files</a></li>
+              <li> <a href="handouts/instructionsForScriptFiles.pdf">
+                  Instructions for turning in scipt files</a></li>
+              <li> The <b>textbook</b> for the course will be:
+                <i> Essential MATLAB for Engineers and Scientists</i>, 6ed,
+                by Hahn and Valentine.
+                <li> <p> This course is also about learning <b>MATLAB.
+                  You will be required to have access to a working copy of the student version of MATLAB.
+                </b> You can find it <a href="https://www.mathworks.com/academia/student_version.html"> here</a>
+<!--
+              <li> <a href="sched18s.pdf">Tentative schedule</a>.
+                See the Calendar below for a more up-to-date schedule. </li>
+              <li> <a href="finalProjectDates.pdf"> Final Project Guidelines</a>
+                edited 5/3 because I messed up the due dates!</li>
+              <li> <a href="handouts/instructionsForScriptFiles.pdf">Instructions for script (program, or .m) files</a>
+                Modified 3/6/18 </li>
+              <li> <a href="handouts/instructionsForTurningInWrittenWork.pdf">
+                Instructions for turning in logs and .m files</a>. Modified 3/6/18</li>  -->
+            </ul>
+          </div>
+
+          <div class="col-xs-6">
+            <h3> Recent announcements: </h3>
+            <ul>
+              <li> (12/6)  Extra office hours Sunday (12/8) from 11:30am-1pm.
+              <li> (11/9) <b>Exam 2, Fri, Nov 15</b> will cover:
+                <ul>
+                    <li>  if/then (sec 2.8) </li>
+                    <li>  plotting stuff (9.1, plus old code) </li>
+                    <li>  structure plans (Ch 3) </li>
+                    <li>  functions (Ch 3) </li>
+                    <li> save and load (Ch 4) </li>
+                    <li> solving systems of linear eq.s (Ch 4) </li>
+                    <li> matrix stuff (Ch 4) </li>
+                    <li> least squares fitting (my notes, Ray's 5.4) </li>
+                    <li> polyfit (my notes, book ex 14.9) </li>
+                    <li> simulations (Ch 13) </li>
+                  </ul>
+              <li> (11/1)  Exam 2 will be Nov 15th.  </li>
+              <li> (9/27)  Exam 1 will cover chapters 1-2.7 and 9.5--just the amount of 9.5 needed for animations.
+                It will be open book, open your code, open any of my code that I've given you,
+                and open web---with one exception:  you may not ask another human (in any way:
+                no texts, emails, posts in a forum, etc etc.)</li>
+              <li>  Textbook is chosen!  </li>
+            </ul>
+          </div>
+      </div>
+
+
+
+
+            <div id="courseCalendar">
+              <h3> Calendar </h3>
+            <div class="row row-header">
+              <div class="col-xs-1"> Date  </div>
+              <div class="col-xs-2"> Section </div>
+              <div class="col-xs-3"> Topic   </div>
+              <div class="col-xs-3">   Homework </div>
+              <div class="col-xs-3">   Due to me (by 1pm) </div>
+            </div>
+
+
+<!--            <div class="row row-striped">
+               <div class="col-xs-1"> 4/25 </div>
+               <div class="col-xs-2"> 14.2, 4, 5 </div>
+               <div class="col-xs-3"> Runge-Kutta method </div>
+               <div class="col-xs-3">  </div>
+               <div class="col-xs-3">  </div>
+             </div>  -->
+
+
+
+             <div class="row row-striped">
+              <div class="col-xs-1"> 9/6 </div>
+              <div class="col-xs-2"> Ch 1 </div>
+              <div class="col-xs-3"> Intro and overview </br>
+                </div>
+              <div class="col-xs-3"> HW01:  Turn on diary, work Exercises 1.1, 3, 4 on p 31 </div>
+              <div class="col-xs-3">
+              </div>
+            </div>
+
+
+             <div class="row row-striped">
+              <div class="col-xs-1"> 9/9 </div>
+              <div class="col-xs-2"> Ch 1.3-2.3.7  </div>
+              <div class="col-xs-3"> workspace, variables, script files  </br>
+                <a href="./notes/notes190909.html"> my notes</a>
+                </div>
+              <div class="col-xs-3"> HW02:  Turn on diary, work Exercises 2.1-2.6 on pp36-37 and 2.2-2.6, pp52-53</div>
+              <div class="col-xs-3"> </div>
+            </div>
+
+
+            <div class="row row-striped">
+             <div class="col-xs-1"> 9/13 </div>
+             <div class="col-xs-2"> Ch 2.3.8- 2.4 </div>
+             <div class="col-xs-3"> Physics examples </br>
+                  <a href="./notes/pseudoAndFreeFall.html"> my notes</a> </br>
+                  <a href="handouts/instructionsForScriptFiles.pdf">Instructions for script files (.m files)</a></br>
+                  <a href="./inClass/01ch2_firstMotion.pdf">tutorial problems</a> </br>
+               </div>
+             <div class="col-xs-3">   </div>
+             <div class="col-xs-3"> HW01, HW02 </div>
+           </div>
+
+
+           <div class="row row-striped">
+            <div class="col-xs-1"> 9/16 </div>
+            <div class="col-xs-2"> Ch 2.4 </div>
+            <div class="col-xs-3"> Physics examples </br>
+                 <a href="./inClass/02ch2_moreMotion.pdf">tutorial problems</a> </br>
+              </div>
+            <div class="col-xs-3"> Turn in figures from 11(g), HW03:  problem 12 from today's worksheet  </div>
+            <div class="col-xs-3">   </div>
+          </div>
+
+          <div class="row row-striped">
+           <div class="col-xs-1"> 9/20 </div>
+           <div class="col-xs-2">   </div>
+           <div class="col-xs-3">   </br>
+             </div>
+           <div class="col-xs-3"> Ex. p77: 2.6, 2.12, 2.17, 2.18 (script), 2.23 (script) </div>
+           <div class="col-xs-3"> HW03  </div>
+         </div>
+
+         <div class="row row-striped">
+          <div class="col-xs-1"> 9/23 </div>
+          <div class="col-xs-2"> 9.5  </div>
+          <div class="col-xs-3">
+              <a = href = "./scripts/animationSinForClass.m"> script for first animation</a> </br>
+              <a href="./inClass/03firstAnimation.pdf">tutorial problems</a> </br>
+           </div>
+          <div class="col-xs-3">  Animate a particle (red circle) moving in uniform circular motion.
+              (You don't have to solve a DE.  You know the equations of motion from Phys 1.)
+              Choose a radius of 0.2m and a period of 2s. </div>
+          <div class="col-xs-3">  </div>
+        </div>
+
+
+        <div class="row row-striped">
+         <div class="col-xs-1"> 9/27 </div>
+         <div class="col-xs-2"> 2.8 </br>
+           9.1
+            </div>
+         <div class="col-xs-3">
+             if/then  </br>
+             more graphics
+          </div>
+         <div class="col-xs-3"> HW05: Do Exercises: a-g (p65), 2.22 (p79), 1 2 (p197), 9.1, 9.2, 9.6 (pp 230-232)   </div>
+         <div class="col-xs-3"> HW04: scripts for 2.18 and 2.23 and circular motion animation.</div>
+       </div>
+
+       <div class="row row-striped">
+        <div class="col-xs-1"> 9/30 </div>
+        <div class="col-xs-2">  </br>
+
+           </div>
+        <div class="col-xs-3">
+              </br>
+
+         </div>
+        <div class="col-xs-3">   </div>
+        <div class="col-xs-3">   </div>
+      </div>
+
+      <div class="row row-striped">
+       <div class="col-xs-1"> 10/4 </div>
+       <div class="col-xs-2"> 1.0-2.7,9.5  </br>   </div>
+       <div class="col-xs-3"> <b> Exam 1</b>  </br>  </div>
+       <div class="col-xs-3">    </div>
+       <div class="col-xs-3">
+       </div>
+     </div>
+
+     <div class="row row-striped">
+      <div class="col-xs-1"> 10/7 </div>
+      <div class="col-xs-2"> Ch 3 </br>   </div>
+      <div class="col-xs-3">
+        <a href=scripts/firstFuncSqrt.m> mySqrt function in script files</br>
+        <a href=scripts/myBoxSize.m> func to find area, vol</br>
+        <a href=scripts/simpleWhile.m> a basic while loop</br>
+        <a href="inClass/05functions.pdf"> handout from class</a></br>
+      </div>
+      <div class="col-xs-3">    </div>
+      <div class="col-xs-3">    </div>
+    </div>
+
+    <div class="row row-striped">
+     <div class="col-xs-1"> 10/11 </div>
+     <div class="col-xs-2">  Ch 3 </br>  </div>
+     <div class="col-xs-3"> Do exercises end of Ch 3</br>  </div>
+     <div class="col-xs-3"> Finish all exercises from Ch 3 </div>
+     <div class="col-xs-3"> HW05:  postponed because of power outage
+     </div>
+   </div>
+
+   <div class="row row-striped">
+    <div class="col-xs-1"> 10/14 </div>
+    <div class="col-xs-2">  Ch 4 </br>  </div>
+    <div class="col-xs-3">
+      <a href="./inClass/06saveAndLoad.pdf">save, load, Kirchhhoff</a> </br>
+      <a href="./data/mysteryData.txt">mysteryData.txt</a> </br>
+      </br>  </div>
+    <div class="col-xs-3">    </div>
+    <div class="col-xs-3">
+    </div>
+  </div>
+
+  <div class="row row-striped">
+   <div class="col-xs-1"> 10/18 </div>
+   <div class="col-xs-2">
+      <a href="leastSquaresFittingPages.pdf">Ray's 5.4</a></br>
+      <a href="notes/191018leastSquaresFitting.pdf">my notes</a>
+    </div>
+   <div class="col-xs-3">
+     <a href="inClass/07curveFitting.pdf"> creating test data and least square fitting (corrected)</a></br>
+     <a href="data/randomY12x-4.txt"> randomY12x-4.txt</a> data set I made.
+   </div>
+   <div class="col-xs-3"> Finish the first two problems from today's worksheet, we'll use them Monday </div>
+   <div class="col-xs-3"> <b>HW05</b>:  Write one big script that shows all of exercises 2.22-9.6 assigned 9/27.
+     Keep all the figures separate (using the figure command.) </br>
+     <b>HW06</b>: exercise 3.6, 3.7, 3.8
+   </div>
+ </div>
+
+
+ <div class="row row-striped">
+  <div class="col-xs-1"> 10/21 </div>
+  <div class="col-xs-2">
+     <a href="leastSquaresFittingPages.pdf">Ray's 5.4</a></br>
+     <a href="notes/191018leastSquaresFitting.pdf">my notes</a>
+   </div>
+  <div class="col-xs-3">
+    <a href="inClass/08moreCurveFitting.pdf"> more curve fitting!</a></br>
+    <a href="scripts/polyfitFromText149.m"> polyfit ex from textbook 14.9</a>
+    <a href="data/verticalMotion.txt"> verticalMotion.txt</a>
+  </div>
+  <div class="col-xs-3"> HW07:  Fit the data to find v_0 and a for each of these files of 1D motion data:
+    <a href="data/oneDmotion1.txt"> oneDmotion1.txt</a>
+    <a href="data/oneDmotion2.txt"> oneDmotion2.txt</a>
+    <a href="data/oneDmotion3.txt"> oneDmotion3.txt</a>
+  </div>
+  <div class="col-xs-3"> </br>
+  </div>
+ </div>
+
+
+ <div class="row row-striped">
+  <div class="col-xs-1"> 10/25 </div>
+  <div class="col-xs-2">   </br>  </div>
+  <div class="col-xs-3">
+      No Class  </div>
+  <div class="col-xs-3">  Fall Break!  </div>
+  <div class="col-xs-3">
+  </div>
+</div>
+
+<div class="row row-striped">
+ <div class="col-xs-1"> 10/28 </div>
+ <div class="col-xs-2">   </br>  </div>
+ <div class="col-xs-3">
+     No Class  </div>
+ <div class="col-xs-3">  Power out!  </div>
+ <div class="col-xs-3">
+ </div>
+</div>
+
+<div class="row row-striped">
+ <div class="col-xs-1"> 11/1 </div>
+ <div class="col-xs-2"> Ch 13 </br>  </div>
+ <div class="col-xs-3">
+    Simulations </br>
+     rand, floor, histogram, clock commands  </br>
+     <a href="inClass/09simulations.pdf">first simulation practice problems</a></br>
+     <a href="handouts/finalProjectAssignment.pdf">
+           Final Project Assignment</a>
+   </div>
+ <div class="col-xs-3"> Finish 1-3 today's handout,
+    <b>HW08</b>: Ch 13: 2, 4, 6  </div>
+ <div class="col-xs-3">
+ </div>
+</div>
+
+<div class="row row-striped">
+ <div class="col-xs-1"> 11/4 </div>
+ <div class="col-xs-2"> Ch 13 </br>  </div>
+ <div class="col-xs-3">
+     <a href="inClass/10moreSimulations.pdf">more simulation practice problems</a>
+   </div>
+ <div class="col-xs-3">   </div>
+ <div class="col-xs-3">
+ </div>
+</div>
+
+<div class="row row-striped">
+ <div class="col-xs-1"> 11/8 </div>
+ <div class="col-xs-2"> 14.4 </br>  </div>
+ <div class="col-xs-3">
+   <a href="inClass/11eulerMethod.pdf">Euler's Method Problems</a> (edited)
+   </div>
+ <div class="col-xs-3"> Finish the first two problems from today </div>
+ <div class="col-xs-3">
+   <b>HW08</b>
+ </div>
+</div>
+
+
+<div class="row row-striped">
+ <div class="col-xs-1"> 11/11 </div>
+ <div class="col-xs-2"> 2.8, 9.1, 3, 4, 13 </div>
+ <div class="col-xs-3">
+    <a href="inClass/12exam2review.pdf">Review Exam 2 Problems</a> </br>
+      <a href="data/revEx2_JCK.txt"> revEx2_JCK.txt</a> </br>
+    </div>
+ <div class="col-xs-3">   </div>
+ <div class="col-xs-3">
+ </div>
+</div>
+
+
+<div class="row row-striped">
+ <div class="col-xs-1"> 11/15 </div>
+ <div class="col-xs-2"> 2.8, 9.1, 3, 4, 13 </br>  </div>
+ <div class="col-xs-3">
+      <b> Exam 2</b> </br>
+      <a href="data/randomQuadExam2.txt"> randomQuadExam2.txt</a> </br>
+    </div>
+ <div class="col-xs-3">   </div>
+ <div class="col-xs-3">
+ </div>
+</div>
+
+<div class="row row-striped">
+ <div class="col-xs-1"> 11/18 </div>
+ <div class="col-xs-2">  </div>
+ <div class="col-xs-3">
+    work on final projects    </div>
+ <div class="col-xs-3">   </div>
+ <div class="col-xs-3">
+ </div>
+</div>
+
+
+<div class="row row-striped">
+ <div class="col-xs-1"> 11/22 </div>
+ <div class="col-xs-2">  </div>
+ <div class="col-xs-3">
+    work on final projects    </div>
+ <div class="col-xs-3">   </div>
+ <div class="col-xs-3">
+ </div>
+</div>
+
+
+<div class="row row-striped">
+ <div class="col-xs-1"> 11/25 </div>
+ <div class="col-xs-2">
+   <a href="handouts/NewmanCh8odes.pdf">Newman Ch 8</a>
+ </div>
+ <div class="col-xs-3">
+   <a href="notes/191125rungeKuttaTaylorSeries.pdf">my notes</a> </br>
+   <a href="inClass/13rungeKutta.pdf">Runge Kutta Problems</a> </br>
+   <a href="scripts/firstExRK2.m">Runge Kutta code for xdot = 2t</a> </br>
+    </div>
+ <div class="col-xs-3">   </div>
+ <div class="col-xs-3">
+ </div>
+</div>
+
+<div class="row row-striped">
+ <div class="col-xs-1"> 12/2 </div>
+ <div class="col-xs-2">
+ </div>
+ <div class="col-xs-3">
+   Presentations</br>
+   <a href="inClass/14reviewForFinal.pdf">Practice Problems for Final</a> </br>
+   <a href="data/reviewFinal2.txt">reviewFinal2.txt data file</a> </br>
+     </div>
+ <div class="col-xs-3"> HW09:  Problems 1-2 from
+   <a href="inClass/13rungeKutta.pdf">last handout of Runge Kutta Problems</a> </br> </div>
+ <div class="col-xs-3">
+ </div>
+</div>
+
+<div class="row row-striped">
+ <div class="col-xs-1"> 12/6 </div>
+ <div class="col-xs-2">
+ </div>
+ <div class="col-xs-3">
+   <a href="inClass/14reviewForFinal.pdf">Practice Problems for Final</a> </br>
+     </div>
+ <div class="col-xs-3"> </div>
+ <div class="col-xs-3">
+ </div>
+</div>
+
+
+<div class="row row-striped">
+ <div class="col-xs-1"> 12/9 </div>
+ <div class="col-xs-2">
+ </div>
+ <div class="col-xs-3">
+   <b> Final Exam </b>
+     </div>
+ <div class="col-xs-3"> 1pm </div>
+ <div class="col-xs-3">
+ </div>
+</div>
+
+<div class="row row-striped">
+ <div class="col-xs-1"> 12/12 </div>
+ <div class="col-xs-2">
+ </div>
+ <div class="col-xs-3">
+   No class--last day to turn things in to me.
+     </div>
+ <div class="col-xs-3">  </div>
+ <div class="col-xs-3"> <b> HW09:  Problems 1-2 from
+   <a href="inClass/13rungeKutta.pdf">last handout of Runge Kutta Problems</a> </br></b>
+ </div>
+</div>
+
+
+
+        </div>
+
+    </div> <!-- /container -->
+
+
+    <br>
+    <br>
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="../../../shared/bootstrap/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+
+    <!-- Added to make navb                                                                                                                                      
