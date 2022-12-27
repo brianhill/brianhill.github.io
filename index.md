@@ -4,7 +4,7 @@
 
 ## Courses
 
-### Current
+### Coming Soon (Spring Semester, 2023)
 
 * [Cosmology and Black Holes](./cosmology/index.html)
 * [History and Science of the Manhattan Project](./manhattan-project/index.html)
