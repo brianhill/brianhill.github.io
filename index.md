@@ -6,8 +6,8 @@
 
 ### Current
 
-* Cosmology and Black Holes
-* History and Science of the Manhattan Project
+* [Cosmology and Black Holes](./cosmology/index.html)
+* [History and Science of the Manhattan Project](./manhattan-project/index.html)
 * [Transient Astronomy](./transient-astronomy/index.html)
 
 ### Past
