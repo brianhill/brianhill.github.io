@@ -26,7 +26,7 @@
 
 ### At Saint Mary's College of California
 
-*Many links below are currently unavailable (last checked Dec. 27, 2022) due to a server outage at Saint Mary's College of California.*
+*Formatting and links within the content below may be out-of-date.*
 
 #### Physics
 
