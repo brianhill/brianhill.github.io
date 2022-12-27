@@ -9,11 +9,13 @@
 * [Differential Equations](./differential-equations/)
 * [Heavenly Mathematics](./heavenly-mathematics/)
 * [Mathematical Analysis: The Foundation of Calculus](./mathematical-analysis/)
+* [Numerical Analysis on a Pocket Calculator](./numerical-analysis/index.html)
 
 #### Physics &amp; Astronomy
 
 * [The Cosmos: A Survey of Modern Astronomy](./astronomy/)
 * [Observational Astronomy](./observational-astronomy/)
+* [From Galileo to Newton: The Emergence of Modern Physical Science](./newton/index.html)
 * [The Special Theory of Relativity](./special-relativity/)
 
 #### Technology
@@ -24,6 +26,8 @@
 
 ### At Saint Mary's College of California
 
+*Many links below are currently unavailable (last checked Dec. 27, 2022) due to a server outage at Saint Mary's College of California.*
+
 #### Physics
 
 * [Introduction to Physics I](http://physics.stmarys-ca.edu/courses/Phys001/18F/index.html)
@@ -33,7 +37,8 @@
 * [Quantum Mechanics](http://physics.stmarys-ca.edu/courses/Phys125/19F/index.html)
 
 #### Astronomy 
-* [Introduction to Astronomy](https://observatree.github.io/physics90/)
+
+* [Introduction to Astronomy](./physics90/)
 * [Astronomy Laboratory](http://physics.stmarys-ca.edu/courses/Phys091/20S/index.html)
 * [Astrophysics](http://physics.stmarys-ca.edu/courses/Phys170/18S/index.html)
 * [Observational Astronomy](http://physics.stmarys-ca.edu/courses/Phys185/17S/index.html)
