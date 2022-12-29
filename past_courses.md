@@ -26,7 +26,7 @@
 
 ### At Saint Mary's College of California
 
-*Formatting and links within the content below may be out-of-date.*
+*Formatting and links within the content below may be lacking.*
 
 #### Physics
 
