@@ -32,7 +32,6 @@
 
 * [Introduction to Physics I](./stmarys-physics/courses/Phys001/18F/index.html)
 * [Introduction to Physics II](./stmarys-physics/courses/Phys003/17S/index.html)
-* [Physics II Laboratory](./stmarys-physics/courses/Phys004/20S/index.html)
 * [Modern Physics](./stmarys-physics/courses/Phys060/15F/index.html)
 * [Quantum Mechanics](./stmarys-physics/courses/Phys125/19F/index.html)
 
@@ -40,7 +39,7 @@
 
 * [Introduction to Astronomy](./stmarys-physics/courses/Phys090/20S/index.html)
 * [Astronomy Laboratory](./stmarys-physics/courses/Phys091/20S/index.html)
-* [Astrophysics](./stmarys-physics/coursesPhys170/18S/index.html)
+* [Astrophysics](./stmarys-physics/courses/Phys170/18S/index.html)
 * [Observational Astronomy](./stmarys-physics/courses/Phys185/17S/index.html)
 
 #### Computer Science
