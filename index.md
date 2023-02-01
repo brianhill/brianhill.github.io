@@ -28,6 +28,7 @@
 * Norway Meteorological Institute [forecast](https://www.yr.no/en/forecast/graph/2-5346035/United%20States/California/Inyo%20County/The%20Elephant) for The Elephant
 * Astrospheric [astronomical forecast](https://www.astrospheric.com/?Latitude=37.3749&Longitude=-117.9802) for Deep Springs
 * ClearDarkSky [astronomical forecast](https://www.cleardarksky.com/c/DpSprObCAkey.html?1) for Deep Springs Observatory
+* Windy [graphical wind map](https://www.windy.com/37.372/-117.985?37.248,-117.985,10,m:eHsacSw)
 
 ### Historical Weather
 
