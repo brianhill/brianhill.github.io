@@ -13,14 +13,17 @@
 
 #### Physics &amp; Astronomy
 
+* [Cosmology and Black Holes](./cosmology/index.html)
 * [The Cosmos: A Survey of Modern Astronomy](./astronomy/)
 * [Observational Astronomy](./observational-astronomy/)
 * [From Galileo to Newton: The Emergence of Modern Physical Science](./newton/index.html)
 * [The Special Theory of Relativity](./special-relativity/)
+* [Transient Astronomy](./transient-astronomy/index.html)
 
 #### Technology
 
 * [Cryptography: Algorithms and History](./cryptography/)
+* [History and Science of the Manhattan Project](./manhattan-project/index.html)
 * [Modeling, Simulation, and Rendering in Processing](./modeling-in-processing)
 * [Technological MacGyvering with the Arduino Microprocessor](./technological-macgyvering/)
 

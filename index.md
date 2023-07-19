@@ -4,11 +4,12 @@
 
 ## Courses
 
-### Current
+### Proposed Courses (for Fall, 2023)
 
-* [Cosmology and Black Holes](./cosmology/index.html)
-* [History and Science of the Manhattan Project](./manhattan-project/index.html)
-* [Transient Astronomy](./transient-astronomy/index.html)
+* Introductory Physics
+* Bayesian Statistics
+* ChatGPT and its Ilk
+* Ancient Astronomy
 
 ### Past
 
