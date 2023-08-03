@@ -4,12 +4,10 @@
 
 ## Courses
 
-### Proposed Courses (for Fall, 2023)
+### Upcoming Courses (for Fall, 2023)
 
-* Introductory Physics
-* Bayesian Statistics
-* ChatGPT and its Ilk
-* Ancient Astronomy
+* Methods and Results of Ancient Astronomy (./ancient-astronomy/)
+* Modern Introductory Physics (./physics/)
 
 ### Past
 
