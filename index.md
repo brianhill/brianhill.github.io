@@ -4,7 +4,7 @@
 
 ## Courses
 
-### Upcoming (for Fall, 2023)
+### Current
 
 * [Methods and Results of Ancient Astronomy](./ancient-astronomy/)
 * [Modern Introductory Physics](./physics/)
