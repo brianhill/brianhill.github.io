@@ -7,11 +7,21 @@
 ### Current
 
 * [Methods and Results of Ancient Astronomy](./ancient-astronomy/)
-* [Modern Introductory Physics](./physics/)
+* [Modern Introductory Physics-Part I](./physics/)
+
+### Prospective/Upcoming
+
+* [Occultation Timing](./occultation-timing/index.html)
+* [Modern Introductory Physics-Part II-FORTHCOMING](./physics-ii/)
 
 ### Past
 
 * [Past Courses](./past_courses.html)
+
+### Prospective/Upcoming
+
+* [Occultation Timing](./occultation-timing/index.html)
+* [Modern Introductory Physics-Part I](./physics/)
 
 ## Presentations and Publications
 
