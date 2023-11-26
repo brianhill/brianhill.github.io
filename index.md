@@ -18,11 +18,6 @@
 
 * [Past Courses](./past_courses.html)
 
-### Prospective/Upcoming
-
-* [Occultation Timing](./occultation-timing/index.html)
-* [Modern Introductory Physics-Part I](./physics/)
-
 ## Presentations and Publications
 
 * [Presentations and Publications](./presentations_and_publications.html)
