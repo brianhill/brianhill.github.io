@@ -7,12 +7,12 @@
 ### Current
 
 * [Methods and Results of Ancient Astronomy](./ancient-astronomy/)
-* [Modern Introductory Physics-Part I](./physics/)
+* [Modern Introductory Physics, Part I: Classical Mechanics](./physics/)
 
-### Prospective/Upcoming
+### Upcoming/Prospective
 
+* [Modern Introductory Physics, Part II: Quantum Mechanics &amp; Relativity-FORTHCOMING](./physics-ii/)
 * [Occultation Timing](./occultation-timing/index.html)
-* [Modern Introductory Physics-Part II-FORTHCOMING](./physics-ii/)
 
 ### Past
 
