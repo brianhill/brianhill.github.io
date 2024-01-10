@@ -7,6 +7,7 @@
 ### Current
 
 * [Modern Introductory Physics, Part II](./physics-ii/)
+* [Supernova Observation](./supernova-observation/)
 
 ### Past
 
