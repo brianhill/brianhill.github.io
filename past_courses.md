@@ -10,11 +10,12 @@
 * [From Galileo to Newton: The Emergence of Modern Physical Science](./newton/index.html)
 * [Methods and Results of Ancient Astronomy](./ancient-astronomy/)
 * [Observational Astronomy](./observational-astronomy/)
-* [Transient Astronomy](./transient-astronomy/index.html)
+* [Supernova Observation](./supernova-observation/) (Spring 2024 Independent Study)
+* [Transient Astronomy](./transient-astronomy/index.html) (Spring 2023 Independent Study)
 
 #### Mathematics
 
-* [Differential Equations](./differential-equations/)
+* [Differential Equations](./differential-equations/) (Term 6 2022 Independent Study)
 * [Heavenly Mathematics](./heavenly-mathematics/)
 * [Mathematical Analysis: The Foundation of Calculus](./mathematical-analysis/)
 * [Numerical Analysis on a Pocket Calculator](./numerical-analysis/index.html)
@@ -24,8 +25,8 @@
 * [Cosmology and Black Holes](./cosmology/index.html)
 * [From Galileo to Newton: The Emergence of Modern Physical Science](./newton/index.html)
 * [History and Science of the Manhattan Project](./manhattan-project/index.html)
-* [Modern Introductory Physics, Part I](./physics/)
-* [Modern Introductory Physics, Part II](./physics-ii/)
+* [Modern Introductory Physics, Part I](./physics/) &mdash; Conservation Laws and Newtonian Mechanics
+* [Modern Introductory Physics, Part II](./physics-ii/) &mdash; Quantum Mechanics and Nuclear Physics
 * [The Special Theory of Relativity](./special-relativity/)
 
 #### Technology

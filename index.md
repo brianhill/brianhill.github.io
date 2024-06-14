@@ -4,9 +4,9 @@
 
 ## Courses
 
-### Current
+### Fall 2024 Course Proposals
 
-* [Supernova Observation](./supernova-observation/)
+* FORTHCOMING
 
 ### Past
 
@@ -48,7 +48,7 @@
 
 ### GIS
 
-* [Inyo County GIS map](https://gis.inyoco.com/arcgis/apps/webappviewer/index.html?id=4f0e9813612040c3994f0ec22235fba4&center=413215.4992%2C4136912.6261%2C26911&scale=7040.6821) centered on Deep Springs
+* At [Inyo County Public maps](https://www.inyocounty.us/services/gis-data-maps/public-maps) choose &ldquo;Inyo County GIS Data Map&rdquo;
 
 ## More Links
 
