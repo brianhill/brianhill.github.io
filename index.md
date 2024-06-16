@@ -53,7 +53,7 @@
 
 ### GIS
 
-* At [Inyo County Public maps](https://www.inyocounty.us/services/gis-data-maps/public-maps) choose &ldquo;Inyo County GIS Data Map&rdquo;
+* At [Inyo County Public Maps](https://www.inyocounty.us/services/gis-data-maps/public-maps) choose &ldquo;Inyo County GIS Data Map&rdquo;
 
 ## More Links
 
