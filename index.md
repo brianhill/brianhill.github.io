@@ -12,14 +12,9 @@
 
 * [Past Courses](./past_courses.html)
 
-## Directed Studies and Research at Deep Springs Observatory
-
-### Current
+## Directed Studies
 
 * [Supernova Observation](./supernova-observation/) (Spring 2024 Directed Study with Hexi Jin and Ethan Liao)
-
-### Past
-
 * [Transient Astronomy](./transient-astronomy/index.html) (Spring 2023 Directed Study with Sofia Mikulasek and Luke Suess)
 
 ## Presentations and Publications
