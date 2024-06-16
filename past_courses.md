@@ -10,8 +10,6 @@
 * [From Galileo to Newton: The Emergence of Modern Physical Science](./newton/index.html)
 * [Methods and Results of Ancient Astronomy](./ancient-astronomy/)
 * [Observational Astronomy](./observational-astronomy/)
-* [Supernova Observation](./supernova-observation/) (Spring 2024 Independent Study)
-* [Transient Astronomy](./transient-astronomy/index.html) (Spring 2023 Independent Study)
 
 #### Mathematics
 
