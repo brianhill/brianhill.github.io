@@ -4,9 +4,10 @@
 
 ## Courses
 
-### Fall 2024 Course Proposals
+### Current
 
-* FORTHCOMING
+* Bayesian Statistics &mdash; COURSE WEBSITE FORTHCOMING
+* Black Holes &mdash; COURSE WEBSITE FORTHCOMING
 
 ### Past
 

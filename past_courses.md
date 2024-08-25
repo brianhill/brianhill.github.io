@@ -20,7 +20,6 @@
 
 #### Physics
 
-* [Cosmology and Black Holes](./cosmology/index.html)
 * [From Galileo to Newton: The Emergence of Modern Physical Science](./newton/index.html)
 * [History and Science of the Manhattan Project](./manhattan-project/index.html)
 * [Modern Introductory Physics, Part I](./physics/) &mdash; Conservation Laws and Newtonian Mechanics
