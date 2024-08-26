@@ -6,8 +6,8 @@
 
 ### Current
 
-* Bayesian Statistics &mdash; COURSE WEBSITE FORTHCOMING
-* Black Holes &mdash; COURSE WEBSITE FORTHCOMING
+* [Bayesian Statistics](./bayesian-statistics/)
+* [Black Holes](./black-holes/)
 
 ### Past
 
