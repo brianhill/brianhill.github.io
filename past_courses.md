@@ -24,7 +24,6 @@
 * [History and Science of the Manhattan Project](./manhattan-project/index.html)
 * [Modern Introductory Physics, Part I](./physics/) &mdash; Conservation Laws and Newtonian Mechanics
 * [Modern Introductory Physics, Part II](./physics-ii/) &mdash; Quantum Mechanics and Nuclear Physics
-* [The Special Theory of Relativity](./special-relativity/)
 
 #### Technology
 
