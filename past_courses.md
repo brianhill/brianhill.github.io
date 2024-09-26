@@ -7,7 +7,6 @@
 #### Astronomy
 
 * [The Cosmos: A Survey of Modern Astronomy](./astronomy/)
-* [From Galileo to Newton: The Emergence of Modern Physical Science](./newton/index.html)
 * [Methods and Results of Ancient Astronomy](./ancient-astronomy/)
 * [Observational Astronomy](./observational-astronomy/)
 
