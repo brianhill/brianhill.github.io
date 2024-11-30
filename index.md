@@ -40,11 +40,11 @@
 
 ### Dark Sky
 
-* Dark Site Finder [interactive map](https://darksitefinder.com/maps/world.html#10/37.3749/-117.9802) centered on Deep Springs
+* Dark Site Finder [interactive map](https://darksitefinder.com/maps/world.html#10/37.3749/-117.9802) centered on Deep Springs College
 
 ### Air Quality
 
-* PurpleAir [air quality map](https://www.purpleair.com/map?opt=1/i/mPM25/a60/cC0#10.04/37.3749/-117.9802) centered on Deep Springs
+* PurpleAir [air quality map](https://www.purpleair.com/map?opt=1/i/mPM25/a60/cC0#10.04/37.3749/-117.9802) centered on Deep Springs College
 
 ### Satellite Imagery and Fire Information
 
@@ -54,6 +54,7 @@
 
 ### GIS
 
+* [California Fault Activity Map](https://maps.conservation.ca.gov/cgs/fam/App/index.html?marker=-117.98105109741265%2C37.373%2C%2C%2C%2C&markertemplate=%7B%22title%22%3A%22HOL%22%2C%22longitude%22%3A-117.981%2C%22latitude%22%3A37.373359867792296%2C%22isIncludeShareUrl%22%3Atrue%7D&level=13) centered on Deep Springs College
 * At [Inyo County Public Maps](https://www.inyocounty.us/services/gis-data-maps/public-maps) choose &ldquo;Inyo County GIS Data Map&rdquo;
 
 ## More Links
