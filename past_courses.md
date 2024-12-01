@@ -14,7 +14,6 @@
 
 * [Differential Equations](./differential-equations/) (Term 6 2022 Independent Study)
 * [Heavenly Mathematics](./heavenly-mathematics/) (co-taught with Ryan Derby-Talbot)
-* [Mathematical Analysis: The Foundation of Calculus](./mathematical-analysis/)
 * [Numerical Analysis on a Pocket Calculator](./numerical-analysis/index.html)
 
 #### Physics

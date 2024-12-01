@@ -4,7 +4,12 @@
 
 ## Courses
 
-### Current
+### Upcoming (Spring Semester, 2025)
+
+* The Foundation of Calculus: Mathematical Analysis
+* Oscillations and Waves in Mathematica
+
+### Current (Fall Semester, 2024)
 
 * [Bayesian Statistics](./bayesian-statistics/)
 * [Black Holes](./black-holes/)
