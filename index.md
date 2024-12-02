@@ -12,7 +12,7 @@
 ### Current (Fall Semester, 2024)
 
 * [Bayesian Statistics](./bayesian-statistics/)
-* [Black Holes](./black-holes/)
+* [Relativity and Black Holes](./black-holes/)
 
 ### Past
 
@@ -57,7 +57,7 @@
 * [NASA FIRMS](https://firms2.modaps.eosdis.nasa.gov/map/#d:today;@-118.2,41.0,6z) (Fire Information for Resource Management System)
 * RAMMB/CIRA GOES-17 [fire temperature animation](https://rammb-slider.cira.colostate.edu/?sat=goes-17&z=5&im=12&ts=1&st=0&et=0&speed=200&motion=loop&map=1&lat=0&opacity%5B0%5D=1&hidden%5B0%5D=0&pause=0&slider=-1&hide_controls=1&mouse_draw=0&follow_feature=0&follow_hide=0&s=rammb-slider&sec=full_disk&p%5B0%5D=fire_temperature&x=13488.140625&y=3295.15625) for Northern and Central California
 
-### GIS
+### Geology and GIS
 
 * [California Fault Activity Map](https://maps.conservation.ca.gov/cgs/fam/App/index.html?marker=-117.98105109741265%2C37.373%2C%2C%2C%2C&markertemplate=%7B%22title%22%3A%22HOL%22%2C%22longitude%22%3A-117.981%2C%22latitude%22%3A37.373359867792296%2C%22isIncludeShareUrl%22%3Atrue%7D&level=13) centered on Deep Springs College
 * At [Inyo County Public Maps](https://www.inyocounty.us/services/gis-data-maps/public-maps) choose &ldquo;Inyo County GIS Data Map&rdquo;
