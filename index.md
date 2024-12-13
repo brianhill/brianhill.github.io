@@ -6,8 +6,8 @@
 
 ### Upcoming (Spring Semester, 2025)
 
-* The Foundation of Calculus: Mathematical Analysis
-* Oscillations and Waves in Mathematica
+* [Mathematical Analysis](./mathematical-analysis/)
+* [Oscillations and Waves](./oscillations-and-waves/)
 
 ### Current (Fall Semester, 2024)
 
@@ -18,10 +18,6 @@
 
 * [Past Courses](./past_courses.html)
 
-## Directed Studies
-
-* [Supernova Observation](./supernova-observation/) (Spring 2024 Directed Study with Hexi Jin and Ethan Liao)
-* [Transient Astronomy](./transient-astronomy/index.html) (Spring 2023 Directed Study with Sofia Mikulasek and Luke Suess)
 
 ## Presentations and Publications
 

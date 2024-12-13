@@ -29,6 +29,11 @@
 * [Modeling, Simulation, and Rendering in Processing](./modeling-in-processing)
 * [Technological MacGyvering with the Arduino Microprocessor](./technological-macgyvering/)
 
+#### Directed Studies
+
+* [Supernova Observation](./supernova-observation/) (Spring 2024 Directed Study with Hexi Jin and Ethan Liao)
+* [Transient Astronomy](./transient-astronomy/index.html) (Spring 2023 Directed Study with Sofia Mikulasek and Luke Suess)
+
 ### At Saint Mary's College of California
 
 *Formatting and links within the content below may be lacking.*
