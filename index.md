@@ -4,20 +4,14 @@
 
 ## Courses
 
-### Upcoming (Spring Semester, 2025)
+### Current
 
 * [Mathematical Analysis](./mathematical-analysis/)
 * [Oscillations and Waves](./oscillations-and-waves/)
 
-### Current (Fall Semester, 2024)
-
-* [Bayesian Statistics](./bayesian-statistics/)
-* [Relativity and Black Holes](./black-holes/)
-
 ### Past
 
 * [Past Courses](./past_courses.html)
-
 
 ## Presentations and Publications
 

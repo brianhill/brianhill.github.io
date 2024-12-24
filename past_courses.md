@@ -12,6 +12,7 @@
 
 #### Mathematics
 
+* [Bayesian Statistics](./bayesian-statistics/)
 * [Differential Equations](./differential-equations/) (Term 6 2022 Independent Study)
 * [Heavenly Mathematics](./heavenly-mathematics/) (co-taught with Ryan Derby-Talbot)
 * [Numerical Analysis on a Pocket Calculator](./numerical-analysis/index.html)
@@ -22,6 +23,7 @@
 * [History and Science of the Manhattan Project](./manhattan-project/index.html)
 * [Modern Introductory Physics, Part I](./physics/) &mdash; Conservation Laws and Newtonian Mechanics
 * [Modern Introductory Physics, Part II](./physics-ii/) &mdash; Quantum Mechanics and Nuclear Physics
+* [Relativity and Black Holes](./black-holes/)
 
 #### Technology
 
