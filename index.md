@@ -6,8 +6,8 @@
 
 ### Current
 
-* [Oscillations and Waves](./oscillations-and-waves/)
 * [Mathematical Analysis](./mathematical-analysis/)
+* [Oscillations and Waves](./oscillations-and-waves/)
 
 ### Past
 
