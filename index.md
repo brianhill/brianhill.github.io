@@ -4,7 +4,7 @@
 
 ## Courses
 
-### Current
+### Recent (Spring Semester 2025)
 
 * [Mathematical Analysis](./mathematical-analysis/)
 * [Oscillations and Waves](./oscillations-and-waves/)
