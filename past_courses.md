@@ -38,7 +38,7 @@
 
 ### At Saint Mary's College of California
 
-*Formatting and links within the content below may be lacking.*
+* I no longer attempt to maintain content dating back to my time at the Saint Mary's Physics Department, so the formatting and links within the snapshotted content below may be quite lacking.*
 
 #### Physics
 
