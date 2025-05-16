@@ -4,10 +4,9 @@
 
 ## Courses
 
-### Recent (Spring Semester 2025)
+### Current
 
-* [Mathematical Analysis](./mathematical-analysis/)
-* [Oscillations and Waves](./oscillations-and-waves/)
+* [Scientific Data Analysis in Python](./scientific-data-analysis) (Summer 2025 Independent Study with Hexi Jin)
 
 ### Past
 

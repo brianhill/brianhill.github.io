@@ -15,6 +15,7 @@
 * [Bayesian Statistics](./bayesian-statistics/)
 * [Differential Equations](./differential-equations/) (Term 6 2022 Independent Study)
 * [Heavenly Mathematics](./heavenly-mathematics/) (co-taught with Ryan Derby-Talbot)
+* [Mathematical Analysis](./mathematical-analysis/)
 * [Numerical Analysis on a Pocket Calculator](./numerical-analysis/index.html)
 
 #### Physics
@@ -23,6 +24,7 @@
 * [History and Science of the Manhattan Project](./manhattan-project/index.html)
 * Modern Introductory Physics, Part I &mdash; Conservation Laws and Newtonian Mechanics
 * Modern Introductory Physics, Part II &mdash; Quantum Mechanics and Nuclear Physics
+* [Oscillations and Waves](./oscillations-and-waves/)
 * [Relativity and Black Holes](./black-holes/)
 
 #### Technology
@@ -31,7 +33,7 @@
 * [Modeling, Simulation, and Rendering in Processing](./modeling-in-processing)
 * [Technological MacGyvering with the Arduino Microprocessor](./technological-macgyvering/)
 
-#### Directed Studies
+#### Directed and Independent Studies
 
 * [Supernova Observation](./supernova-observation/) (Spring 2024 Directed Study with Hexi Jin and Ethan Liao)
 * [Transient Astronomy](./transient-astronomy/index.html) (Spring 2023 Directed Study with Sofia Mikulasek and Luke Suess)
