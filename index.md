@@ -6,7 +6,7 @@
 
 ### Current
 
-* [Scientific Data Analysis in Python](./scientific-data-analysis) (Summer 2025 Independent Study with Hexi Jin)
+* [Scientific Data Analysis, Data Science, and Machine Learning in Python](./scientific-data-analysis) (Summer 2025 Independent Study with Hexi Jin)
 
 ### Past
 
