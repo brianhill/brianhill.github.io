@@ -21,7 +21,7 @@
 #### Physics
 
 * [From Galileo to Newton: The Emergence of Modern Physical Science](./newton/index.html)
-* [History and Science of the Manhattan Project](./manhattan-project/index.html)
+* History and Science of the Manhattan Project
 * Modern Introductory Physics, Part I &mdash; Conservation Laws and Newtonian Mechanics
 * Modern Introductory Physics, Part II &mdash; Quantum Mechanics and Nuclear Physics
 * [Oscillations and Waves](./oscillations-and-waves/)
