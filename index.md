@@ -31,6 +31,7 @@
 ### Historical Weather
 
 * National Weather Service MesoWest [Weather Conditions at Deep Springs](https://wcc.sc.egov.usda.gov/reportGenerator/view/customSingleStationReport/hourly/2187:CA:SCAN%7Cid=%22%22%7Cname/-167,0/stationId,name,PRCP::value,TOBS::value,TAVG::value,TMAX::value,TMIN::value,SMS:-2:value,SMS:-4:value,SMS:-8:value,SMS:-20:value,SMS:-40:value,STO:-2:value,STO:-4:value,STO:-8:value,STO:-20:value,STO:-40:value,RHUM::value,SRADV::value?fitToScreen=false)
+* [Other weather stations](https://nwcc-apps.sc.egov.usda.gov/imap/#version=170&elements=&networks=!&states=!&counties=!&hucs=&minElevation=&maxElevation=&elementSelectType=any&activeOnly=true&activeForecastPointsOnly=true&hucLabels=false&hucIdLabels=false&hucParameterLabels=true&stationLabels=&overlays=&hucOverlays=&basinOpacity=75&basinNoDataOpacity=25&basemapOpacity=100&maskOpacity=0&mode=data&openSections=dataElement,parameter,date,basin,options,elements,location,networks&controlsOpen=false&popup=&popupMulti=&popupBasin=&base=esriNgwm&displayType=station&basinType=6&dataElement=PREC&depth=-8&parameter=PCTPORMED&frequency=DAILY&duration=wytd&customDuration=&dayPart=E&monthPart=E&forecastPubDay=1&forecastExceedance=50&useMixedPast=true&seqColor=1&divColor=7&scaleType=D&scaleMin=&scaleMax=&referencePeriodType=POR&referenceBegin=1991&referenceEnd=2020&minimumYears=20&hucAssociations=true&relativeDate=-1&lat=39.011&lon=-117.329&zoom=5.8)
 
 ### Dark Sky
 
