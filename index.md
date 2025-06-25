@@ -30,7 +30,7 @@
 
 ### Historical Weather
 
-* National Weather Service MesoWest [Weather Conditions at Deep Springs](https://www.wrh.noaa.gov/mesowest/timeseries.php?sid=DPSC1)
+* National Weather Service MesoWest [Weather Conditions at Deep Springs](https://wcc.sc.egov.usda.gov/reportGenerator/view/customSingleStationReport/hourly/2187:CA:SCAN%7Cid=%22%22%7Cname/-167,0/stationId,name,PRCP::value,TOBS::value,TAVG::value,TMAX::value,TMIN::value,SMS:-2:value,SMS:-4:value,SMS:-8:value,SMS:-20:value,SMS:-40:value,STO:-2:value,STO:-4:value,STO:-8:value,STO:-20:value,STO:-40:value,RHUM::value,SRADV::value?fitToScreen=false)
 
 ### Dark Sky
 
