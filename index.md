@@ -6,7 +6,8 @@
 
 ### Current
 
-* [Scientific Data Analysis, Data Science, and Machine Learning in Python](./scientific-data-analysis) (Summer 2025 Independent Study with Hexi Jin)
+* [Scientific Data Analysis, Data Science, and Machine Learning in Python](./scientific-data-analysis) (May-June 2025 Independent Study with Hexi Jin)
+    * See also [Deep Learning notes](./deep-learning) for continued study using Chollet &amp; Watson after the end of the May-June term)
 
 ### Past
 
