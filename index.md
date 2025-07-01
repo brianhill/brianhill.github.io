@@ -4,10 +4,10 @@
 
 ## Courses
 
-### Current
+### Recent
 
 * [Scientific Data Analysis, Data Science, and Machine Learning in Python](./scientific-data-analysis) (May-June 2025 Independent Study with Hexi Jin)
-    * See also my [Deep Learning](./deep-learning) notes for ideas for continued study using Chollet &amp; Watson after the end of the May-June term
+    * See also these [Deep Learning](./deep-learning/index.html) notes for ideas for continued study using Chollet &amp; Watson after the end of the May-June term
 
 ### Past
 
