@@ -9,6 +9,8 @@
 * [The Cosmos: A Survey of Modern Astronomy](./astronomy/)
 * [Methods and Results of Ancient Astronomy](./ancient-astronomy/)
 * [Observational Astronomy](./observational-astronomy/)
+* [Supernova Observation](./supernova-observation/) (Spring 2024 Directed Study with Hexi Jin and Ethan Liao)
+* [Transient Astronomy](./transient-astronomy/) (Spring 2023 Directed Study with Sofia Mikulasek and Luke Suess)
 
 #### Mathematics
 
@@ -16,14 +18,13 @@
 * [Differential Equations](./differential-equations/) (Term 6 2022 Independent Study)
 * [Heavenly Mathematics](./heavenly-mathematics/) (co-taught with Ryan Derby-Talbot)
 * [Mathematical Analysis](./mathematical-analysis/)
-* [Numerical Analysis on a Pocket Calculator](./numerical-analysis/index.html)
+* [Numerical Analysis on a Pocket Calculator](./numerical-analysis)
 
 #### Physics
 
-* [From Galileo to Newton: The Emergence of Modern Physical Science](./newton/index.html)
+* [From Galileo to Newton: The Emergence of Modern Physical Science](./newton/)
 * History and Science of the Manhattan Project
-* Modern Introductory Physics, Part I &mdash; Conservation Laws and Newtonian Mechanics
-* Modern Introductory Physics, Part II &mdash; Quantum Mechanics and Nuclear Physics
+* Quantum Mechanics and Nuclear Physics
 * [Oscillations and Waves](./oscillations-and-waves/)
 * [Relativity and Black Holes](./black-holes/)
 
@@ -31,12 +32,10 @@
 
 * [Cryptography: Algorithms and History](./cryptography/)
 * [Modeling, Simulation, and Rendering in Processing](./modeling-in-processing)
+* [Scientific Data Analysis, Data Science, and Machine Learning in Python](./scientific-data-analysis) (May-June 2025 Independent Study with Hexi Jin)
+    * See also my [Deep Learning](./deep-learning/mma-notes/MathematicsForDeepLearning.nb.pdf) write-up for the mathematics of backpropagation
+	* Study of transformers could continue from where we left off using *[Build a Large Language Model (from Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)* by Sebastian Raschka.
 * [Technological MacGyvering with the Arduino Microprocessor](./technological-macgyvering/)
-
-#### Directed and Independent Studies
-
-* [Supernova Observation](./supernova-observation/) (Spring 2024 Directed Study with Hexi Jin and Ethan Liao)
-* [Transient Astronomy](./transient-astronomy/index.html) (Spring 2023 Directed Study with Sofia Mikulasek and Luke Suess)
 
 ### At Saint Mary's College of California
 
@@ -61,7 +60,3 @@
 * [Cloud Software Development](./stmarys-physics/courses/CS197/16F/index.html)
 * [Loops and Orbits: Programming for Aspiring Rocketeers](./stmarys-physics/courses/Jan033/20J/index.html)
 * [Mobile Software Development](./stmarys-physics/courses/CS190/16S/index.html)
-
-#### Seminar
-
-* [Seminar 1: Critical Strategies and Great Questions](./stmarys-physics/courses/Sem001/19S/index.html)

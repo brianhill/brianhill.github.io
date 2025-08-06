@@ -4,11 +4,9 @@
 
 ## Courses
 
-### Recent
+### Current
 
-* [Scientific Data Analysis, Data Science, and Machine Learning in Python](./scientific-data-analysis) (May-June 2025 Independent Study with Hexi Jin)
-    * See also my [Deep Learning](./deep-learning/mma-notes/MathematicsForDeepLearning.nb.pdf) write-up for the mathematics of backpropagation
-	* Study of transformers could continue from where we left off using *[Deep Learning with Python, Third Edition](https://www.manning.com/books/deep-learning-with-python-third-edition)* (forthcoming) by Chollet &amp; Watson, or *[Build a Large Language Model (from Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)* by Sebastian Raschka.
+* [Classical Mechanics](./classical-mechanics/)
 
 ### Past
 
