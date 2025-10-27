@@ -9,9 +9,9 @@
 
 Whichever is picked, I am as excited about my last spring of teaching as I was of the first. Each course proposal is a reminder for me of why physics provides a beautiful, versatile, and unified way to view the world. In order of increasing prerequisites, the three proposals are:
 
-* [Big-Bang Cosmology](./course-proposals/BigBangCosmology.pdf)
-* [Analog Electronics](./course-proposals/AnalogElectronics.pdf)
-* [Quantum Mechanics and Quantum Statistical Physics](./course-proposals/QuantumMechanicsAndQuantumStatisticalPhysics.pdf)
+* [Big-Bang Cosmology](./resources/BigBangCosmology.pdf)
+* [Analog Electronics](./resources/AnalogElectronics.pdf)
+* [Quantum Mechanics and Quantum Statistical Physics](./resources/QuantumMechanicsAndQuantumStatisticalPhysics.pdf)
 
 ### Fall 2025
 
