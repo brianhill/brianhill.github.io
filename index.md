@@ -4,6 +4,10 @@
 
 ## Courses
 
+### Course Proposals
+
+* [Spring 2026](./BriansSpringCourseProposals.pdf)
+
 ### Current
 
 * [Classical Mechanics](./classical-mechanics/)

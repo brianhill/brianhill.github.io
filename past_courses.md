@@ -6,7 +6,7 @@
 
 #### Astronomy
 
-* [The Cosmos: A Survey of Modern Astronomy](./astronomy/)
+* A Survey of Modern Astronomy
 * [Methods and Results of Ancient Astronomy](./ancient-astronomy/)
 * [Observational Astronomy](./observational-astronomy/)
 * [Supernova Observation](./supernova-observation/) (Spring 2024 Directed Study with Hexi Jin and Ethan Liao)
