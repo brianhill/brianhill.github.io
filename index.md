@@ -7,7 +7,7 @@
 
 ### Springs 2026 Proposals
 
-Whichever is picked, I am as excited about my last spring of teaching as I was of the first. Each course proposal is a reminder for me of why physics provides a beautiful, versatile, and unified way to view the world. In order of increasing prerequisites, the three proposals are:
+Whichever is picked, I am as excited about my last spring of teaching as I was of the first. Each course proposal is a reminder of the extent that physics provides a beautiful, versatile, and unified view of the world. In order of increasing prerequisites, the three proposals for spring are:
 
 * [Big-Bang Cosmology](./resources/BigBangCosmology.pdf)
 * [Analog Electronics](./resources/AnalogElectronics.pdf)
