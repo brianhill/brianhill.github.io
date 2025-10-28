@@ -9,13 +9,13 @@
 * A Survey of Modern Astronomy
 * [Methods and Results of Ancient Astronomy](./ancient-astronomy/)
 * [Observational Astronomy](./observational-astronomy/)
-* [Supernova Observation](./supernova-observation/) (Spring 2024 Directed Study with Hexi Jin and Ethan Liao)
-* [Transient Astronomy](./transient-astronomy/) (Spring 2023 Directed Study with Sofia Mikulasek and Luke Suess)
+* [Supernova Observation](./supernova-observation/) (Spring Semester 2024 Directed Study with Hexi Jin and Ethan Liao)
+* [Transient Astronomy](./transient-astronomy/) (Spring Semester 2023 Directed Study with Sofia Mikulasek and Luke Suess)
 
 #### Mathematics
 
 * [Bayesian Statistics](./bayesian-statistics/)
-* [Differential Equations](./differential-equations/) (Term 6 2022 Independent Study)
+* [Differential Equations](./differential-equations/) (May-June 2022 Independent Study with Aubryn Kaine and Tashroom Ashan)
 * [Heavenly Mathematics](./heavenly-mathematics/) (co-taught with Ryan Derby-Talbot)
 * [Mathematical Analysis](./mathematical-analysis/)
 * [Numerical Analysis on a Pocket Calculator](./numerical-analysis)
