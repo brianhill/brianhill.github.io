@@ -2,12 +2,11 @@
 
 *Herbert Reich Chair of Natural Science, Deep Springs College*
 
-
 ## Courses
 
 ### Spring 2026 Proposals
 
-Whichever is picked, I am as excited about my last spring of teaching as I was of the first. Each course proposal is a reminder of the extent to which physics provides a beautiful, versatile, and unified view of the world. In order of increasing prerequisites, my three proposals for spring of 2026 are:
+Whichever is picked, I am as excited about my last semester of teaching as I was of the first. Each course proposal is a reminder of the extent to which physics provides a beautiful, versatile, and unified view of the world. In order of increasing prerequisites, my three proposals for Spring Semester 2026 are:
 
 * [Big-Bang Cosmology](./resources/BigBangCosmology.pdf)
 * [Analog Electronics](./resources/AnalogElectronics.pdf)
