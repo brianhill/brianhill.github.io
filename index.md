@@ -12,9 +12,46 @@
 
 * [Classical Mechanics](./classical-mechanics/)
 
-### Past
+## Past Courses
 
-* [Past Courses](./past_courses.html)
+### At Deep Springs College
+
+#### Astronomy
+
+* [The Cosmos: A Survey of Modern Astronomy](./astronomy)
+* [Methods and Results of Ancient Astronomy](./ancient-astronomy/)
+* [Observational Astronomy](./observational-astronomy/)
+* [Supernova Observation](./supernova-observation/) (Spring Semester 2024 Directed Study with Hexi Jin and Ethan Liao)
+* [Transient Astronomy](./transient-astronomy/) (Spring Semester 2023 Directed Study with Sofia Mikulasek and Luke Suess)
+
+#### Mathematics
+
+* [Bayesian Statistics](./bayesian-statistics/)
+* [Differential Equations](./differential-equations/) (May-June 2022 Independent Study with Aubryn Kaine and Tashroom Ashan)
+* [Heavenly Mathematics](./heavenly-mathematics/) (co-taught with Ryan Derby-Talbot)
+* [Mathematical Analysis](./mathematical-analysis/)
+* [Numerical Analysis on a Pocket Calculator](./numerical-analysis)
+
+#### Physics
+
+* [From Galileo to Newton: The Emergence of Modern Physical Science](./newton/)
+* [History and Science of the Manhattan Project](./manhattan-project)
+* [Oscillations and Waves](./oscillations-and-waves/)
+* [Quantum Mechanics and Nuclear Physics](./physics-ii)
+* [Relativity and Black Holes](./black-holes/)
+
+#### Technology
+
+* [Cryptography: Algorithms and History](./cryptography/)
+* [Modeling, Simulation, and Rendering in Processing](./modeling-in-processing)
+* [Scientific Data Analysis, Data Science, and Machine Learning in Python](./scientific-data-analysis) (May-June 2025 Independent Study with Hexi Jin)
+    * See also my [Deep Learning](./deep-learning/mma-notes/MathematicsForDeepLearning.nb.pdf) write-up for the mathematics of backpropagation
+	* Study of transformers could continue from where we left off using *[Build a Large Language Model (from Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)* by Sebastian Raschka.
+* [Technological MacGyvering with the Arduino Microprocessor](./technological-macgyvering/)
+
+### At Saint Mary's College of California
+
+* [Past Courses at Saint Mary's College of California](./past_courses_at_saint_marys.html)
 
 ## Presentations and Publications
 
@@ -46,6 +83,8 @@
 * PurpleAir [air quality map](https://www.purpleair.com/map?opt=1/i/mPM25/a60/cC0#10.04/37.3749/-117.9802) centered on Deep Springs College
 
 ### Satellite Imagery and Fire Information
+
+*The links below are often moved around, so unfortunately they may not work. Please let me know if a link has gone dead.*
 
 * [GOES West Pacific Southwest GeoColor](https://www.star.nesdis.noaa.gov/goes/sector_band.php?sat=G17&sector=psw&band=GEOCOLOR&length=12)
 * [NASA FIRMS](https://firms2.modaps.eosdis.nasa.gov/map/#d:today;@-118.2,41.0,6z) (Fire Information for Resource Management System)
