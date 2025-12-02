@@ -2,17 +2,13 @@
 
 *Herbert Reich Chair of Natural Science, Deep Springs College*
 
-## Courses
+## Upcoming Courses
 
 ### Spring 2026
 
 * [Analog Electronics - Course Proposal](./resources/AnalogElectronicsCourseProposal.pdf)
 
-### Fall 2025
-
-* [Classical Mechanics](./classical-mechanics/)
-
-## Past Courses
+## Current and Past Courses
 
 ### At Deep Springs College
 
@@ -36,8 +32,9 @@
 
 * [From Galileo to Newton: The Emergence of Modern Physical Science](./newton/)
 * [History and Science of the Manhattan Project](./manhattan-project)
+* [Modern Introductory Physics, Part I: Classical Mechanics](./classical-mechanics)
+* [Modern Introductory Physics, Part II: Quantum Mechanics and Nuclear Physics](./physics-ii)
 * [Oscillations and Waves](./oscillations-and-waves/)
-* [Quantum Mechanics and Nuclear Physics](./physics-ii)
 * [Relativity and Black Holes](./black-holes/)
 
 #### Technology
