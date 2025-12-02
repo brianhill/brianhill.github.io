@@ -23,7 +23,7 @@
 #### Physics
 
 * [From Galileo to Newton: The Emergence of Modern Physical Science](./newton/)
-* History and Science of the Manhattan Project
+* [History and Science of the Manhattan Project](./manhattan-project)
 * Quantum Mechanics and Nuclear Physics
 * [Oscillations and Waves](./oscillations-and-waves/)
 * [Relativity and Black Holes](./black-holes/)
