@@ -6,7 +6,7 @@
 
 ### Spring 2026
 
-* [Analog Electronics - Course Proposal](./resources/AnalogElectronicsCourseProposal.pdf)
+* [Analog Electronics](./analog-electronics/)
 
 ## Current and Past Courses
 
