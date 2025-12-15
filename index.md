@@ -2,12 +2,6 @@
 
 *Herbert Reich Chair of Natural Science, Deep Springs College*
 
-## Upcoming Courses
-
-### Spring 2026
-
-* [Analog Electronics](./analog-electronics/)
-
 ## Current and Past Courses
 
 ### At Deep Springs College
@@ -39,6 +33,7 @@
 
 #### Technology
 
+* [Analog Electronics](./analog-electronics/) (Spring Semester 2026)
 * [Cryptography: Algorithms and History](./cryptography/)
 * [Modeling, Simulation, and Rendering in Processing](./modeling-in-processing)
 * [Scientific Data Analysis, Data Science, and Machine Learning in Python](./scientific-data-analysis) (May-June 2025 Independent Study with Hexi Jin)
