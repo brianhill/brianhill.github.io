@@ -4,7 +4,12 @@
 
 ## Current and Past Courses
 
-### At Deep Springs College
+### Current (Spring 2026)
+
+* [Analog Electronics](./analog-electronics/)
+* [Quantum Mechanics with Statistical Physics - FORTHCOMING](./quantum-mechanics) (Directed Study)
+
+### Past Courses at Deep Springs College
 
 #### Astronomy
 
@@ -33,7 +38,6 @@
 
 #### Technology
 
-* [Analog Electronics](./analog-electronics/) (Spring Semester 2026)
 * [Cryptography: Algorithms and History](./cryptography/)
 * [Modeling, Simulation, and Rendering in Processing](./modeling-in-processing)
 * [Scientific Data Analysis, Data Science, and Machine Learning in Python](./scientific-data-analysis) (May-June 2025 Independent Study with Hexi Jin)
@@ -41,7 +45,7 @@
 	* Study of transformers could continue from where we left off using *[Build a Large Language Model (from Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)* by Sebastian Raschka.
 * [Technological MacGyvering with the Arduino Microprocessor](./technological-macgyvering/)
 
-### At Saint Mary's College of California
+### Past Courses at Saint Mary's College of California
 
 * [Past Courses at Saint Mary's College of California](./past_courses_at_saint_marys.html)
 
