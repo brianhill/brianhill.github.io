@@ -4,10 +4,10 @@
 
 ## Current and Past Courses
 
-### Current (Spring 2026)
+### Current (Spring Semester 2026)
 
 * [Analog Electronics](./analog-electronics/)
-* [Quantum Mechanics with Statistical Physics - FORTHCOMING](./quantum-mechanics) (Directed Study)
+* [Quantum Mechanics](./quantum-mechanics) (Directed Study with Lucinda Bean, Keevan Kearns, and Grisha London)
 
 ### Past Courses at Deep Springs College
 
@@ -31,8 +31,7 @@
 
 * [From Galileo to Newton: The Emergence of Modern Physical Science](./newton/)
 * [History and Science of the Manhattan Project](./manhattan-project)
-* [Modern Introductory Physics, Part I: Classical Mechanics](./classical-mechanics)
-* [Modern Introductory Physics, Part II: Quantum Mechanics and Nuclear Physics](./physics-ii)
+* [Classical Mechanics](./classical-mechanics)
 * [Oscillations and Waves](./oscillations-and-waves/)
 * [Relativity and Black Holes](./black-holes/)
 
@@ -42,7 +41,7 @@
 * [Modeling, Simulation, and Rendering in Processing](./modeling-in-processing)
 * [Scientific Data Analysis, Data Science, and Machine Learning in Python](./scientific-data-analysis) (May-June 2025 Independent Study with Hexi Jin)
     * See also my [Deep Learning](./deep-learning/mma-notes/MathematicsForDeepLearning.nb.pdf) write-up for the mathematics of backpropagation
-	* Study of transformers could continue from where we left off using *[Build a Large Language Model (from Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)* by Sebastian Raschka.
+	* Study of transformers could continue from where we left off using *[Build a Large Language Model (from Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)* by Sebastian Raschka
 * [Technological MacGyvering with the Arduino Microprocessor](./technological-macgyvering/)
 
 ### Past Courses at Saint Mary's College of California
