@@ -7,7 +7,7 @@
 ### Current (Spring Semester 2026)
 
 * [Analog Electronics](./analog-electronics/)
-* [Quantum Mechanics](./quantum-mechanics) (Directed Study with Lucinda Bean, Keevan Kearns, and Grisha London)
+* [Quantum Mechanics](./quantum-mechanics) (Directed Study with Lucinda Bean and Grisha London)
 
 ### Past Courses at Deep Springs College
 
